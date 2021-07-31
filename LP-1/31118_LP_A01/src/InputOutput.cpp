@@ -5,20 +5,27 @@
  *      Author: Shubham
  */
 
-#include <iostream>
-#include <algorithm>
-#include <iomanip>
-#include "Job.h"
-using namespace std;
 
-void PrintSchedulingDet(Job jobs[], int n, int turnaround_time[], int waiting_time[]) {
+#include "SchedulingAlgos.h"
+
+void SchedulingAlgos :: takeInput() {
+	cout << "Enter Number of Jobs: "; cin >> n;
+	cout << "Enter Arrival time and Burst time:\n";
+	for (int i = 0; i < n; i++) {
+		cout << "Job #" << i + 1 << ": ";
+		cin >> jobs[i].arv_time >> jobs[i].burst_time;
+		jobs[i].id = i + 1;
+	}
+}
+
+void SchedulingAlgos :: PrintSchedulingDet() {
 
 	// sorting by job id
 	sort(jobs, jobs + n, [](const Job &j1, const Job &j2) {
 		return j1.id < j2.id;
 	});
 
-	cout << "\nJob Scheduling Details\n"
+	cout << "Job Scheduling Details\n"
 					"(job_id, arrival_time, burst_time, turnaround_time, waiting_time)\n";
 	double tot_turn=0.0, tot_wait=0.0;
 	for (int i = 0; i < n; i++) {
@@ -31,5 +38,6 @@ void PrintSchedulingDet(Job jobs[], int n, int turnaround_time[], int waiting_ti
 
 	cout << "Average Turnaround Time: " << tot_turn / n << endl;
 	cout << "Average Waiting Time: " << tot_wait / n << endl;
+	cout << "\n---------------------------------------------\n";
 }
 

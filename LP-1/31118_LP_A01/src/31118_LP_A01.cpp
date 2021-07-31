@@ -3,26 +3,28 @@
 // Author      : Shubham
 //============================================================================
 
-#include <iostream>
-#include "scheduling_algos.h"
-#include "Job.h"
-using namespace std;
+#include "SchedulingAlgos.h"
 
 int main() {
-	int n;
-	cout << "Enter Number of Jobs: ";
-	cin >> n;
-	Job jobs[n];
-	cout << "Enter Arrival time and Burst time:\n";
-	for (int i = 0; i < n; i++) {
-		cout << "Job #" << i + 1 << ": ";
-		cin >> jobs[i].arv_time >> jobs[i].burst_time;
-		jobs[i].id = i + 1;
-	}
 
-	FCFS(jobs, n);
+	SchedulingAlgos sch;
 
-	SJF(jobs, n);
+	sch.takeInput();
+
+	cout << "\nFirst Come First Serve algorithm:\n";
+	sch.FCFS();
+
+	cout << "\nShortest Job First (Non-preemptive) algorithm:\n";
+	sch.SJFNonPreem();
+
+	cout << "\nShortest Job First (Preemptive) algorithm:\n";
+	sch.SJFPreem();
+
+	cout << "\nPriority Scheduling algorithm:\n";
+	sch.PriorityScheduling();
+
+	cout << "\nRound Robin Scheduling algorithm:\n";
+	sch.RoundRobin();
 
 	return 0;
 }
