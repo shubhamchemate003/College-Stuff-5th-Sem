@@ -46,7 +46,7 @@ void SchedulingAlgos :: RoundRobin() {
 		if (time_proccessed[cur_job] == jobs[qidx].burst_time)
 			turnaround_time[cur_job] = end_time - jobs[qidx].arv_time;
 
-		while (jobidx < n && jobs[jobidx].arv_time < end_time)
+		while (jobidx < n && jobs[jobidx].arv_time <= end_time)
 			q.push(jobidx++);
 		if (time_proccessed[cur_job] < jobs[qidx].burst_time)
 			q.push(qidx);
