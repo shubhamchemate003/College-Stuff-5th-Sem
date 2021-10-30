@@ -41,7 +41,6 @@ BEGIN
     DECLARE fine INT DEFAULT 0;
 
     DECLARE EXIT HANDLER FOR 1062
-
     BEGIN
         SELECT 'This roll number has multiple entries in database.' AS 'EXCEPTION';
     END;
