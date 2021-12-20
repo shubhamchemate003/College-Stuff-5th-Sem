@@ -1,0 +1,102 @@
+help
+show dbs
+
+// create db
+use b01_db
+
+// current db
+db
+
+// insert
+db.students.insertOne(
+    {
+        name:"Alex",
+        marks: 99,
+        grade: "NA"
+    }
+)
+
+db.students.insertMany([
+    {
+        name:"Bob",
+        marks: 72,
+        grade:"NA"
+    },
+    {
+        name:"Tony",
+        marks:90,
+        grade:"NA"
+    },
+    {
+        name:"Stephen",
+        marks:83,
+        grade:"NA"
+    }
+]
+)
+
+show collections
+
+// read
+// all records
+db.students.find()
+db.students.find(
+    {},
+    {
+        _id:0
+    }
+)
+
+// conditional find
+db.students.find(
+{
+    marks:{$gte:80, $lte:100}
+},
+{
+    _id:0,
+    grade:0
+}
+)
+
+// another way
+db.students.find(
+    {
+        $and:[
+            {marks:{$gte:80}},
+            {marks:{$lte:100}}
+        ]
+    },
+    {
+        _id:0,
+        grade:0
+    }
+)
+
+// update
+db.students.updateMany(
+    {
+        marks:{$gte:70, $lt:80}
+    },
+    {
+        $set:{
+            "grade":"B"
+        }
+    }
+)
+
+// delete
+db.students.deleteOne(
+    {marks:{$get:90, $lt:100}}
+)
+
+// save
+db.students.save(
+    {
+        "_id":ObjectId("61a259548cf5b74a7ecdfe41"),
+        "name":"Bob",
+        "marks":95,
+        "grade":"A+"
+    }
+)
+
+db.dropDatabase()

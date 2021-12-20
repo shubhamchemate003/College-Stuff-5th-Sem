@@ -1,0 +1,1311 @@
+,survived,sex,age,sibsp,parch,fare,embarked,boat,body,home.dest,Sex
+0,1.0,female,29.0,0.0,0.0,211.3375,2,2,,"St Louis, MO",1.0
+1,1.0,male,0.9167,1.0,2.0,151.55,2,11,,"Montreal, PQ / Chesterville, ON",0.0
+2,0.0,female,2.0,1.0,2.0,151.55,2,,,"Montreal, PQ / Chesterville, ON",1.0
+3,0.0,male,30.0,1.0,2.0,151.55,2,,135.0,"Montreal, PQ / Chesterville, ON",0.0
+4,0.0,female,25.0,1.0,2.0,151.55,2,,,"Montreal, PQ / Chesterville, ON",1.0
+5,1.0,male,48.0,0.0,0.0,26.55,2,3,,"New York, NY",0.0
+6,1.0,female,63.0,1.0,0.0,77.9583,2,10,,"Hudson, NY",1.0
+7,0.0,male,39.0,0.0,0.0,0.0,2,,,"Belfast, NI",0.0
+8,1.0,female,53.0,2.0,0.0,51.4792,2,D,,"Bayside, Queens, NY",1.0
+9,0.0,male,71.0,0.0,0.0,49.5042,0,,22.0,"Montevideo, Uruguay",0.0
+10,0.0,male,47.0,1.0,0.0,227.525,0,,124.0,"New York, NY",0.0
+11,1.0,female,18.0,1.0,0.0,227.525,0,4,,"New York, NY",1.0
+12,1.0,female,24.0,0.0,0.0,69.3,0,9,,"Paris, France",1.0
+13,1.0,female,26.0,0.0,0.0,78.85,2,6,,,1.0
+14,1.0,male,80.0,0.0,0.0,30.0,2,B,,"Hessle, Yorks",0.0
+15,0.0,male,28.0,0.0,0.0,25.925,2,,,"New York, NY",0.0
+16,0.0,male,24.0,0.0,1.0,247.5208,0,,,"Montreal, PQ",0.0
+17,1.0,female,50.0,0.0,1.0,247.5208,0,6,,"Montreal, PQ",1.0
+18,1.0,female,32.0,0.0,0.0,76.2917,0,8,,,1.0
+19,0.0,male,36.0,0.0,0.0,75.2417,0,A,,"Winnipeg, MN",0.0
+20,1.0,male,37.0,1.0,1.0,52.5542,2,5,,"New York, NY",0.0
+21,1.0,female,47.0,1.0,1.0,52.5542,2,5,,"New York, NY",1.0
+22,1.0,male,26.0,0.0,0.0,30.0,0,5,,"New York, NY",0.0
+23,1.0,female,42.0,0.0,0.0,227.525,0,4,,,1.0
+24,1.0,female,29.0,0.0,0.0,221.7792,2,8,,,1.0
+25,0.0,male,25.0,0.0,0.0,26.0,0,,148.0,"San Francisco, CA",0.0
+26,1.0,male,25.0,1.0,0.0,91.0792,0,7,,"Dowagiac, MI",0.0
+27,1.0,female,19.0,1.0,0.0,91.0792,0,7,,"Dowagiac, MI",1.0
+28,1.0,female,35.0,0.0,0.0,135.6333,2,8,,,1.0
+29,1.0,male,28.0,0.0,0.0,26.55,2,D,,"Stockholm, Sweden / Washington, DC",0.0
+30,0.0,male,45.0,0.0,0.0,35.5,2,,,"Trenton, NJ",0.0
+31,1.0,male,40.0,0.0,0.0,31.0,0,7,,"Glen Ridge, NJ",0.0
+32,1.0,female,30.0,0.0,0.0,164.8667,2,8,,"Youngstown, OH",1.0
+33,1.0,female,58.0,0.0,0.0,26.55,2,8,,"Birkdale, England Cleveland, Ohio",1.0
+34,0.0,male,42.0,0.0,0.0,26.55,2,,,"London / Winnipeg, MB",0.0
+35,1.0,female,45.0,0.0,0.0,262.375,0,4,,"Cooperstown, NY",1.0
+36,1.0,female,22.0,0.0,1.0,55.0,2,6,,"St Leonards-on-Sea, England Ohio",1.0
+37,1.0,male,28.0,0.0,0.0,26.55,2,9,,"Los Angeles, CA",0.0
+38,0.0,male,41.0,0.0,0.0,30.5,2,,,"Pomeroy, WA",0.0
+39,0.0,male,48.0,0.0,0.0,50.4958,0,,208.0,"Omaha, NE",0.0
+40,0.0,male,28.0,0.0,0.0,39.6,0,,,"Philadelphia, PA",0.0
+41,1.0,female,44.0,0.0,0.0,27.7208,0,6,,"Denver, CO",1.0
+42,1.0,female,59.0,2.0,0.0,51.4792,2,D,,"Belmont, MA",1.0
+43,1.0,female,60.0,0.0,0.0,76.2917,0,8,,"Philadelphia, PA",1.0
+44,1.0,female,41.0,0.0,0.0,134.5,0,3,,,1.0
+45,0.0,male,45.0,0.0,0.0,26.55,2,,,"Washington, DC",0.0
+46,0.0,male,28.0,0.0,0.0,31.0,2,,,,0.0
+47,1.0,male,42.0,0.0,0.0,26.2875,2,5,,"New York, NY",0.0
+48,1.0,female,53.0,0.0,0.0,27.4458,0,6,,"Washington, DC",1.0
+49,1.0,male,36.0,0.0,1.0,512.3292,0,3,,"Austria-Hungary / Germantown, Philadelphia, PA",0.0
+50,1.0,female,58.0,0.0,1.0,512.3292,0,3,,"Germantown, Philadelphia, PA",1.0
+51,0.0,male,33.0,0.0,0.0,5.0,2,,,"New York, NY",0.0
+52,0.0,male,28.0,0.0,0.0,47.1,2,,,"Montevideo, Uruguay",0.0
+53,0.0,male,17.0,0.0,0.0,47.1,2,,,"Montevideo, Uruguay",0.0
+54,1.0,male,11.0,1.0,2.0,120.0,2,4,,"Bryn Mawr, PA",0.0
+55,1.0,female,14.0,1.0,2.0,120.0,2,4,,"Bryn Mawr, PA",1.0
+56,1.0,male,36.0,1.0,2.0,120.0,2,C,,"Bryn Mawr, PA",0.0
+57,1.0,female,36.0,1.0,2.0,120.0,2,4,,"Bryn Mawr, PA",1.0
+58,0.0,male,49.0,0.0,0.0,26.0,2,,,"Ascot, Berkshire / Rochester, NY",0.0
+59,1.0,female,28.0,0.0,0.0,27.7208,0,5,,"New York, NY",1.0
+60,0.0,male,36.0,1.0,0.0,78.85,2,,172.0,"Little Onn Hall, Staffs",0.0
+61,1.0,female,76.0,1.0,0.0,78.85,2,6,,"Little Onn Hall, Staffs",1.0
+62,0.0,male,46.0,1.0,0.0,61.175,2,,,"Amenia, ND",0.0
+63,1.0,female,47.0,1.0,0.0,61.175,2,4,,"Amenia, ND",1.0
+64,1.0,male,27.0,1.0,0.0,53.1,2,5,,"New York, NY / Ithaca, NY",0.0
+65,1.0,female,33.0,1.0,0.0,53.1,2,5,,"New York, NY / Ithaca, NY",1.0
+66,1.0,female,36.0,0.0,0.0,262.375,0,4,,,1.0
+67,1.0,female,30.0,0.0,0.0,86.5,2,8,,"London, England",1.0
+68,1.0,male,45.0,0.0,0.0,29.7,0,7,,"Paris, France",0.0
+69,1.0,female,28.0,0.0,1.0,55.0,2,6,,"St Leonards-on-Sea, England Ohio",1.0
+70,0.0,male,28.0,0.0,0.0,0.0,2,,,"Liverpool, England / Belfast",0.0
+71,0.0,male,27.0,1.0,0.0,136.7792,0,,,"Los Angeles, CA",0.0
+72,1.0,female,26.0,1.0,0.0,136.7792,0,4,,"Los Angeles, CA",1.0
+73,1.0,female,22.0,0.0,0.0,151.55,2,11,,,1.0
+74,0.0,male,28.0,0.0,0.0,52.0,2,,,"Stoughton, MA",0.0
+75,0.0,male,47.0,0.0,0.0,25.5875,2,,,"Victoria, BC",0.0
+76,1.0,female,39.0,1.0,1.0,83.1583,0,14,,"Lakewood, NJ",1.0
+77,0.0,male,37.0,1.0,1.0,83.1583,0,,,"Lakewood, NJ",0.0
+78,1.0,female,64.0,0.0,2.0,83.1583,0,14,,"Lakewood, NJ",1.0
+79,1.0,female,55.0,2.0,0.0,25.7,2,2,,"New York, NY",1.0
+80,0.0,male,28.0,0.0,0.0,26.55,2,,,"Roachdale, IN",0.0
+81,0.0,male,70.0,1.0,1.0,71.0,2,,269.0,"Milwaukee, WI",0.0
+82,1.0,female,36.0,0.0,2.0,71.0,2,7,,"Milwaukee, WI",1.0
+83,1.0,female,64.0,1.0,1.0,26.55,2,7,,"Milwaukee, WI",1.0
+84,0.0,male,39.0,1.0,0.0,71.2833,0,,,"New York, NY",0.0
+85,1.0,female,38.0,1.0,0.0,71.2833,0,4,,"New York, NY",1.0
+86,1.0,male,51.0,0.0,0.0,26.55,2,5 9,,"Lima, Peru",0.0
+87,1.0,male,27.0,0.0,0.0,30.5,2,3,,"Philadelphia, PA",0.0
+88,1.0,female,33.0,0.0,0.0,151.55,2,8,,,1.0
+89,0.0,male,31.0,1.0,0.0,52.0,2,,,"Montreal, PQ",0.0
+90,1.0,female,27.0,1.0,2.0,52.0,2,3,,"Montreal, PQ",1.0
+91,1.0,male,31.0,1.0,0.0,57.0,2,3,,"Calgary, AB",0.0
+92,1.0,female,17.0,1.0,0.0,57.0,2,3,,"Calgary, AB",1.0
+93,1.0,male,53.0,1.0,1.0,81.8583,2,13,,"San Francisco, CA",0.0
+94,1.0,male,4.0,0.0,2.0,81.8583,2,5,,"San Francisco, CA",0.0
+95,1.0,female,54.0,1.0,1.0,81.8583,2,5,,"San Francisco, CA",1.0
+96,0.0,male,50.0,1.0,0.0,106.425,0,,62.0,"Deephaven, MN / Cedar Rapids, IA",0.0
+97,1.0,female,27.0,1.0,1.0,247.5208,0,6,,"Montreal, PQ",1.0
+98,1.0,female,48.0,1.0,0.0,106.425,0,2,,"Deephaven, MN / Cedar Rapids, IA",1.0
+99,1.0,female,48.0,1.0,0.0,39.6,0,1,,London / Paris,1.0
+100,1.0,male,49.0,1.0,0.0,56.9292,0,1,,London / Paris,0.0
+101,0.0,male,39.0,0.0,0.0,29.7,0,,133.0,"Philadelphia, PA",0.0
+102,1.0,female,23.0,0.0,1.0,83.1583,0,7,,"Mt Airy, Philadelphia, PA",1.0
+103,1.0,female,38.0,0.0,0.0,227.525,0,4,,"New York, NY",1.0
+104,1.0,female,54.0,1.0,0.0,78.2667,0,4,,"Brookline, MA",1.0
+105,0.0,female,36.0,0.0,0.0,31.6792,0,,,"New York, NY",1.0
+106,0.0,male,28.0,0.0,0.0,221.7792,2,,,,0.0
+107,1.0,female,28.0,0.0,0.0,31.6833,2,7,,"New York, NY",1.0
+108,1.0,female,28.0,0.0,0.0,110.8833,0,4,,,1.0
+109,1.0,male,36.0,0.0,0.0,26.3875,2,5,,"Brooklyn, NY",0.0
+110,0.0,male,30.0,0.0,0.0,27.75,0,,,"New York, NY",0.0
+111,1.0,female,24.0,3.0,2.0,263.0,2,10,,"Winnipeg, MB",1.0
+112,1.0,female,28.0,3.0,2.0,263.0,2,10,,"Winnipeg, MB",1.0
+113,1.0,female,23.0,3.0,2.0,263.0,2,10,,"Winnipeg, MB",1.0
+114,0.0,male,19.0,3.0,2.0,263.0,2,,,"Winnipeg, MB",0.0
+115,0.0,male,64.0,1.0,4.0,263.0,2,,,"Winnipeg, MB",0.0
+116,1.0,female,60.0,1.0,4.0,263.0,2,10,,"Winnipeg, MB",1.0
+117,1.0,female,30.0,0.0,0.0,56.9292,0,1,,,1.0
+118,0.0,male,28.0,0.0,0.0,26.55,2,,,"Westcliff-on-Sea, Essex",0.0
+119,1.0,male,50.0,2.0,0.0,133.65,2,5,,"New York, NY",0.0
+120,1.0,male,43.0,1.0,0.0,27.7208,0,5,,"New York, NY",0.0
+121,1.0,female,28.0,1.0,0.0,133.65,2,5,,"New York, NY",1.0
+122,1.0,female,22.0,0.0,2.0,49.5,0,5,,"Zurich, Switzerland",1.0
+123,1.0,male,60.0,1.0,1.0,79.2,0,5,,"Zurich, Switzerland",0.0
+124,1.0,female,48.0,1.0,1.0,79.2,0,5,,"Zurich, Switzerland",1.0
+125,0.0,male,28.0,0.0,0.0,0.0,2,,,,0.0
+126,0.0,male,37.0,1.0,0.0,53.1,2,,,"Scituate, MA",0.0
+127,1.0,female,35.0,1.0,0.0,53.1,2,D,,"Scituate, MA",1.0
+128,0.0,male,47.0,0.0,0.0,38.5,2,,275.0,"St Anne's-on-Sea, Lancashire",0.0
+129,1.0,female,35.0,0.0,0.0,211.5,0,4,,,1.0
+130,1.0,female,22.0,0.0,1.0,59.4,0,7,,"New York, NY",1.0
+131,1.0,female,45.0,0.0,1.0,59.4,0,7,,"New York, NY",1.0
+132,0.0,male,24.0,0.0,0.0,79.2,0,,,,0.0
+133,1.0,male,49.0,1.0,0.0,89.1042,0,5,,"Paris, France / New York, NY",0.0
+134,1.0,female,28.0,1.0,0.0,89.1042,0,5,,"Paris, France / New York, NY",1.0
+135,0.0,male,71.0,0.0,0.0,34.6542,0,,,"New York, NY",0.0
+136,1.0,male,53.0,0.0,0.0,28.5,0,B,,"Washington, DC",0.0
+137,1.0,female,19.0,0.0,0.0,30.0,2,3,,"Greenwich, CT",1.0
+138,0.0,male,38.0,0.0,1.0,153.4625,2,,147.0,"Winnipeg, MB",0.0
+139,1.0,female,58.0,0.0,1.0,153.4625,2,3,,"Greenwich, CT",1.0
+140,1.0,male,23.0,0.0,1.0,63.3583,0,7,,"New York, NY",0.0
+141,1.0,female,45.0,0.0,1.0,63.3583,0,7,,"New York, NY",1.0
+142,0.0,male,46.0,0.0,0.0,79.2,0,,,"New York, NY",0.0
+143,1.0,male,25.0,1.0,0.0,55.4417,0,5,,"Brooklyn, NY",0.0
+144,1.0,female,25.0,1.0,0.0,55.4417,0,5,,"Brooklyn, NY",1.0
+145,1.0,male,48.0,1.0,0.0,76.7292,0,3,,"New York, NY",0.0
+146,1.0,female,49.0,1.0,0.0,76.7292,0,3,,"New York, NY",1.0
+147,0.0,male,28.0,0.0,0.0,42.4,2,,,,0.0
+148,0.0,male,45.0,1.0,0.0,83.475,2,,,"New York, NY",0.0
+149,1.0,female,35.0,1.0,0.0,83.475,2,D,,"New York, NY",1.0
+150,0.0,male,40.0,0.0,0.0,0.0,2,,110.0,,0.0
+151,1.0,male,27.0,0.0,0.0,76.7292,0,3,,,0.0
+152,1.0,male,28.0,0.0,0.0,30.0,2,3,,"Kingston, Surrey",0.0
+153,1.0,female,24.0,0.0,0.0,83.1583,0,7,,"New York, NY",1.0
+154,0.0,male,55.0,1.0,1.0,93.5,2,,307.0,"Montreal, PQ",0.0
+155,1.0,female,52.0,1.0,1.0,93.5,2,3,,"Montreal, PQ",1.0
+156,0.0,male,42.0,0.0,0.0,42.5,2,,,London / Middlesex,0.0
+157,0.0,male,28.0,0.0,0.0,51.8625,2,,,"Brighton, MA",0.0
+158,0.0,male,55.0,0.0,0.0,50.0,2,,,London / Birmingham,0.0
+159,1.0,female,16.0,0.0,1.0,57.9792,0,4,,"Chicago, IL",1.0
+160,1.0,female,44.0,0.0,1.0,57.9792,0,4,,"Chicago, IL",1.0
+161,1.0,female,51.0,1.0,0.0,77.9583,2,10,,"Hudson, NY",1.0
+162,0.0,male,42.0,1.0,0.0,52.0,2,,38.0,"New York, NY",0.0
+163,1.0,female,35.0,1.0,0.0,52.0,2,8,,"New York, NY",1.0
+164,1.0,male,35.0,0.0,0.0,26.55,0,15,,"Indianapolis, IN",0.0
+165,1.0,male,38.0,1.0,0.0,90.0,2,D,,"New York, NY /  Stamford CT",0.0
+166,0.0,male,28.0,0.0,0.0,30.6958,0,14,,"New York, NY",0.0
+167,1.0,female,35.0,1.0,0.0,90.0,2,D,,"New York, NY /  Stamford CT",1.0
+168,1.0,female,38.0,0.0,0.0,80.0,2,6,,,1.0
+169,0.0,female,50.0,0.0,0.0,28.7125,0,,,"Paris, France New York, NY",1.0
+170,1.0,male,49.0,0.0,0.0,0.0,2,C,,Liverpool,0.0
+171,0.0,male,46.0,0.0,0.0,26.0,2,,80.0,"Bennington, VT",0.0
+172,0.0,male,50.0,0.0,0.0,26.0,2,,,London,0.0
+173,0.0,male,32.5,0.0,0.0,211.5,0,,45.0,,0.0
+174,0.0,male,58.0,0.0,0.0,29.7,0,,258.0,"Buffalo, NY",0.0
+175,0.0,male,41.0,1.0,0.0,51.8625,2,,,"Southington / Noank, CT",0.0
+176,1.0,female,28.0,1.0,0.0,51.8625,2,8,,"Southington / Noank, CT",1.0
+177,1.0,male,42.0,1.0,0.0,52.5542,2,5,,"Boston, MA",0.0
+178,1.0,female,45.0,1.0,0.0,52.5542,2,5,,"Boston, MA",1.0
+179,0.0,male,28.0,0.0,0.0,26.55,2,,,"Portland, OR",0.0
+180,1.0,female,39.0,0.0,0.0,211.3375,2,2,,,1.0
+181,1.0,female,49.0,0.0,0.0,25.9292,2,8,,"New York, NY",1.0
+182,1.0,female,30.0,0.0,0.0,106.425,0,2,,,1.0
+183,1.0,male,35.0,0.0,0.0,512.3292,0,3,,,0.0
+184,0.0,male,28.0,0.0,0.0,27.7208,0,,,"Chicago, IL",0.0
+185,0.0,male,42.0,0.0,0.0,26.55,2,,,"Stockholm, Sweden",0.0
+186,1.0,female,55.0,0.0,0.0,27.7208,0,6,,"Stockholm, Sweden",1.0
+187,1.0,female,16.0,0.0,1.0,39.4,2,9,,"Paris, France",1.0
+188,1.0,female,51.0,0.0,1.0,39.4,2,9,,"Paris, France",1.0
+189,0.0,male,29.0,0.0,0.0,30.0,2,,126.0,"Springfield, MA",0.0
+190,1.0,female,21.0,0.0,0.0,77.9583,2,10,,"Hudson, NY",1.0
+191,0.0,male,30.0,0.0,0.0,45.5,2,,,"London / New York, NY",0.0
+192,1.0,female,58.0,0.0,0.0,146.5208,0,,,,1.0
+193,1.0,female,15.0,0.0,1.0,211.3375,2,2,,"St Louis, MO",1.0
+194,0.0,male,30.0,0.0,0.0,26.0,2,,,"Brockton, MA",0.0
+195,1.0,female,16.0,0.0,0.0,86.5,2,8,,,1.0
+196,1.0,male,28.0,0.0,0.0,29.7,0,7,,"Paris, France",0.0
+197,0.0,male,19.0,1.0,0.0,53.1,2,,,"New York, NY",0.0
+198,1.0,female,18.0,1.0,0.0,53.1,2,10,,"New York, NY",1.0
+199,1.0,female,24.0,0.0,0.0,49.5042,0,6,,"Belgium  Montreal, PQ",1.0
+200,0.0,male,46.0,0.0,0.0,75.2417,0,,292.0,"Vancouver, BC",0.0
+201,0.0,male,54.0,0.0,0.0,51.8625,2,,175.0,"Dorchester, MA",0.0
+202,1.0,male,36.0,0.0,0.0,26.2875,2,7,,"Philadelphia, PA",0.0
+203,0.0,male,28.0,1.0,0.0,82.1708,0,,,"New York, NY",0.0
+204,1.0,female,28.0,1.0,0.0,82.1708,0,6,,"New York, NY",1.0
+205,0.0,male,65.0,0.0,0.0,26.55,2,,249.0,"East Bridgewater, MA",0.0
+206,0.0,male,44.0,2.0,0.0,90.0,1,,230.0,"Fond du Lac, WI",0.0
+207,1.0,female,33.0,1.0,0.0,90.0,1,14,,"Green Bay, WI",1.0
+208,1.0,female,37.0,1.0,0.0,90.0,1,14,,"Fond du Lac, WI",1.0
+209,1.0,male,30.0,1.0,0.0,57.75,0,11,,"New York, NY",0.0
+210,0.0,male,55.0,0.0,0.0,30.5,2,,,"Montreal, PQ",0.0
+211,0.0,male,47.0,0.0,0.0,42.4,2,,,"Washington, DC",0.0
+212,0.0,male,37.0,0.0,1.0,29.7,0,,,"Brooklyn, NY",0.0
+213,1.0,female,31.0,1.0,0.0,113.275,0,6,,"Lexington, MA",1.0
+214,1.0,female,23.0,1.0,0.0,113.275,0,6,,"Lexington, MA",1.0
+215,0.0,male,58.0,0.0,2.0,113.275,0,,122.0,"Lexington, MA",0.0
+216,1.0,female,19.0,0.0,2.0,26.2833,2,5,,"New York, NY",1.0
+217,0.0,male,64.0,0.0,0.0,26.0,2,,263.0,"Isle of Wight, England",0.0
+218,1.0,female,39.0,0.0,0.0,108.9,0,8,,,1.0
+219,1.0,male,28.0,0.0,0.0,25.7417,0,7,,"Paris, France",0.0
+220,1.0,female,22.0,0.0,1.0,61.9792,0,5,,"Providence, RI",1.0
+221,0.0,male,65.0,0.0,1.0,61.9792,0,,234.0,"Providence, RI",0.0
+222,0.0,male,28.5,0.0,0.0,27.7208,0,,189.0,"?Havana, Cuba",0.0
+223,0.0,male,28.0,0.0,0.0,0.0,2,,,Belfast,0.0
+224,0.0,male,45.5,0.0,0.0,28.5,2,,166.0,"Surbiton Hill, Surrey",0.0
+225,0.0,male,23.0,0.0,0.0,93.5,2,,,"Montreal, PQ",0.0
+226,0.0,male,29.0,1.0,0.0,66.6,2,,,"Isleworth, England",0.0
+227,1.0,female,22.0,1.0,0.0,66.6,2,8,,"Isleworth, England",1.0
+228,0.0,male,18.0,1.0,0.0,108.9,0,,,"Madrid, Spain",0.0
+229,1.0,female,17.0,1.0,0.0,108.9,0,8,,"Madrid, Spain",1.0
+230,1.0,female,30.0,0.0,0.0,93.5,2,3,,,1.0
+231,1.0,male,52.0,0.0,0.0,30.5,2,6,,"Toronto, ON",0.0
+232,0.0,male,47.0,0.0,0.0,52.0,2,,207.0,"Worcester, MA",0.0
+233,1.0,female,56.0,0.0,1.0,83.1583,0,7,,"Mt Airy, Philadelphia, PA",1.0
+234,0.0,male,38.0,0.0,0.0,0.0,2,,,"Rotterdam, Netherlands",0.0
+235,1.0,male,28.0,0.0,0.0,39.6,2,A,,"Paris /  New York, NY",0.0
+236,0.0,male,22.0,0.0,0.0,135.6333,0,,232.0,,0.0
+237,0.0,male,28.0,0.0,0.0,227.525,0,,,,0.0
+238,1.0,female,43.0,0.0,1.0,211.3375,2,2,,"St Louis, MO",1.0
+239,0.0,male,31.0,0.0,0.0,50.4958,2,,,"Trenton, NJ",0.0
+240,1.0,male,45.0,0.0,0.0,26.55,2,9,,"New York, NY",0.0
+241,0.0,male,28.0,0.0,0.0,50.0,2,,,"Seattle, WA",0.0
+242,1.0,female,33.0,0.0,0.0,27.7208,0,11,,"Paris, France",1.0
+243,0.0,male,46.0,0.0,0.0,79.2,0,,16.0,"New York, NY",0.0
+244,0.0,male,36.0,0.0,0.0,40.125,0,,,"Winnipeg, MB",0.0
+245,1.0,female,33.0,0.0,0.0,86.5,2,8,,"London  Vancouver, BC",1.0
+246,0.0,male,55.0,1.0,0.0,59.4,0,,,"New York, NY",0.0
+247,1.0,female,54.0,1.0,0.0,59.4,0,6,,"New York, NY",1.0
+248,0.0,male,33.0,0.0,0.0,26.55,2,,109.0,London,0.0
+249,1.0,male,13.0,2.0,2.0,262.375,0,4,,"Haverford, PA / Cooperstown, NY",0.0
+250,1.0,female,18.0,2.0,2.0,262.375,0,4,,"Haverford, PA / Cooperstown, NY",1.0
+251,1.0,female,21.0,2.0,2.0,262.375,0,4,,"Haverford, PA / Cooperstown, NY",1.0
+252,0.0,male,61.0,1.0,3.0,262.375,0,,,"Haverford, PA / Cooperstown, NY",0.0
+253,1.0,female,48.0,1.0,3.0,262.375,0,4,,"Haverford, PA / Cooperstown, NY",1.0
+254,1.0,male,28.0,0.0,0.0,30.5,2,3,,"Manchester, England",0.0
+255,1.0,female,24.0,0.0,0.0,69.3,0,9,,,1.0
+256,1.0,male,28.0,0.0,0.0,26.0,2,1,,"New York, NY",0.0
+257,1.0,female,35.0,1.0,0.0,57.75,0,11,,"New York, NY",1.0
+258,1.0,female,30.0,0.0,0.0,31.0,0,4,,,1.0
+259,1.0,male,34.0,0.0,0.0,26.55,2,7,,"New York, NY",0.0
+260,1.0,female,40.0,0.0,0.0,153.4625,2,3,,"New York, NY / Greenwich CT",1.0
+261,1.0,male,35.0,0.0,0.0,26.2875,2,5,,"St Louis, MO",0.0
+262,0.0,male,50.0,1.0,0.0,55.9,2,,,"Duluth, MN",0.0
+263,1.0,female,39.0,1.0,0.0,55.9,2,11,,"Duluth, MN",1.0
+264,1.0,male,56.0,0.0,0.0,35.5,0,3,,"Basel, Switzerland",0.0
+265,1.0,male,28.0,0.0,0.0,35.5,2,7,,"New Britain, CT",0.0
+266,0.0,male,56.0,0.0,0.0,26.55,2,,,"New York, NY",0.0
+267,0.0,male,56.0,0.0,0.0,30.6958,0,,,"St James, Long Island, NY",0.0
+268,0.0,male,24.0,1.0,0.0,60.0,2,,,"Huntington, WV",0.0
+269,0.0,male,28.0,0.0,0.0,26.0,2,,,"Streatham, Surrey",0.0
+270,1.0,female,18.0,1.0,0.0,60.0,2,6,,"Huntington, WV",1.0
+271,1.0,male,24.0,1.0,0.0,82.2667,2,7,,"Minneapolis, MN",0.0
+272,1.0,female,23.0,1.0,0.0,82.2667,2,7,,"Minneapolis, MN",1.0
+273,1.0,male,6.0,0.0,2.0,134.5,0,3,,"Tuxedo Park, NY",0.0
+274,1.0,male,45.0,1.0,1.0,134.5,0,3,,"Tuxedo Park, NY",0.0
+275,1.0,female,40.0,1.0,1.0,134.5,0,3,,"Tuxedo Park, NY",1.0
+276,0.0,male,57.0,1.0,0.0,146.5208,0,,,"Paris, France",0.0
+277,1.0,female,28.0,1.0,0.0,146.5208,0,6,,"Paris, France",1.0
+278,1.0,male,32.0,0.0,0.0,30.5,0,3,,"Basel, Switzerland",0.0
+279,0.0,male,62.0,0.0,0.0,26.55,2,,,"Wimbledon Park, London / Hayling Island, Hants",0.0
+280,1.0,male,54.0,1.0,0.0,55.4417,0,1,,"Newark, NJ",0.0
+281,1.0,female,43.0,1.0,0.0,55.4417,0,5,,"Newark, NJ",1.0
+282,1.0,female,52.0,1.0,0.0,78.2667,0,4,,"Haverford, PA",1.0
+283,0.0,male,28.0,0.0,0.0,27.7208,0,,,"Gallipolis, Ohio / ? Paris / New York",0.0
+284,1.0,female,62.0,0.0,0.0,80.0,2,6,,"Cincinatti, OH",1.0
+285,0.0,male,67.0,1.0,0.0,221.7792,2,,96.0,"New York, NY",0.0
+286,0.0,female,63.0,1.0,0.0,221.7792,2,,,"New York, NY",1.0
+287,0.0,male,61.0,0.0,0.0,32.3208,2,,46.0,"Haddenfield, NJ",0.0
+288,1.0,female,48.0,0.0,0.0,25.9292,2,8,,"Brooklyn, NY",1.0
+289,1.0,female,18.0,0.0,2.0,79.65,2,8,,"New York, NY",1.0
+290,0.0,male,52.0,1.0,1.0,79.65,2,,,"New York, NY",0.0
+291,1.0,female,39.0,1.0,1.0,79.65,2,8,,"New York, NY",1.0
+292,1.0,male,48.0,1.0,0.0,52.0,2,5 7,,"London /  East Orange, NJ",0.0
+293,1.0,female,28.0,1.0,0.0,52.0,2,5 7,,"London /  East Orange, NJ",1.0
+294,0.0,male,49.0,1.0,1.0,110.8833,0,,,"Haverford, PA",0.0
+295,1.0,male,17.0,0.0,2.0,110.8833,0,B,,"Haverford, PA",0.0
+296,1.0,female,39.0,1.0,1.0,110.8833,0,4,,"Haverford, PA",1.0
+297,1.0,female,28.0,0.0,0.0,79.2,0,D,,"New York, NY",1.0
+298,1.0,male,31.0,0.0,0.0,28.5375,0,7,,"Albany, NY",0.0
+299,0.0,male,40.0,0.0,0.0,27.7208,0,,,"Mexico City, Mexico",0.0
+300,0.0,male,61.0,0.0,0.0,33.5,2,,245.0,"Brooklyn, NY",0.0
+301,0.0,male,47.0,0.0,0.0,34.0208,2,,,"East Orange, NJ",0.0
+302,1.0,female,35.0,0.0,0.0,512.3292,0,3,,,1.0
+303,0.0,male,64.0,1.0,0.0,75.25,0,,,"Portland, OR",0.0
+304,1.0,female,60.0,1.0,0.0,75.25,0,5,,"Portland, OR",1.0
+305,0.0,male,60.0,0.0,0.0,26.55,2,,,"England Salt Lake City, Utah",0.0
+306,0.0,male,54.0,0.0,1.0,77.2875,2,,,"Brunswick, ME",0.0
+307,0.0,male,21.0,0.0,1.0,77.2875,2,,169.0,"Brunswick, ME",0.0
+308,1.0,female,55.0,0.0,0.0,135.6333,0,8,,"New York, NY / Briarcliff Manor NY",1.0
+309,1.0,female,31.0,0.0,2.0,164.8667,2,8,,"Youngstown, OH",1.0
+310,0.0,male,57.0,1.0,1.0,164.8667,2,,,"Youngstown, OH",0.0
+311,1.0,female,45.0,1.0,1.0,164.8667,2,8,,"Youngstown, OH",1.0
+312,0.0,male,50.0,1.0,1.0,211.5,0,,,"Elkins Park, PA",0.0
+313,0.0,male,27.0,0.0,2.0,211.5,0,,,"Elkins Park, PA",0.0
+314,1.0,female,50.0,1.0,1.0,211.5,0,4,,"Elkins Park, PA",1.0
+315,1.0,female,21.0,0.0,0.0,26.55,2,8 10,,"Duluth, MN",1.0
+316,0.0,male,51.0,0.0,1.0,61.3792,0,,,"Geneva, Switzerland / Radnor, PA",0.0
+317,1.0,male,21.0,0.0,1.0,61.3792,0,A,,"Geneva, Switzerland / Radnor, PA",0.0
+318,0.0,male,28.0,0.0,0.0,35.0,2,,,"London, England",0.0
+319,1.0,female,31.0,0.0,0.0,134.5,0,3,,,1.0
+320,1.0,male,28.0,0.0,0.0,35.5,2,D,,"London, England",0.0
+321,0.0,male,62.0,0.0,0.0,26.55,2,,,"Halifax, NS",0.0
+322,1.0,female,36.0,0.0,0.0,135.6333,0,8,,"New York, NY / Washington, DC",1.0
+323,0.0,male,30.0,1.0,0.0,24.0,0,,,"Russia New York, NY",0.0
+324,1.0,female,28.0,1.0,0.0,24.0,0,10,,"Russia New York, NY",1.0
+325,0.0,male,30.0,0.0,0.0,13.0,2,,,"Bryn Mawr, PA, USA",0.0
+326,0.0,male,18.0,0.0,0.0,11.5,2,,,"Buenos Aires, Argentina / New Jersey, NJ",0.0
+327,0.0,male,25.0,0.0,0.0,10.5,2,,,"Cornwall, England Houghton, MI",0.0
+328,0.0,male,34.0,1.0,0.0,26.0,2,,,"Warwick, England",0.0
+329,1.0,female,36.0,1.0,0.0,26.0,2,11,,"Warwick, England",1.0
+330,0.0,male,57.0,0.0,0.0,13.0,2,,,"West Hoboken, NJ",0.0
+331,0.0,male,18.0,0.0,0.0,11.5,2,,,"Penzance, Cornwall / Akron, OH",0.0
+332,0.0,male,23.0,0.0,0.0,10.5,2,,,Guernsey,0.0
+333,1.0,female,36.0,0.0,0.0,13.0,2,10,,"Bristol, Avon / Jacksonville, FL",1.0
+334,0.0,male,28.0,0.0,0.0,10.5,2,,,"Plymouth, Dorset / Houghton, MI",0.0
+335,0.0,male,51.0,0.0,0.0,12.525,2,,174.0,"Jacksonville, FL",0.0
+336,1.0,male,32.0,1.0,0.0,26.0,2,13,,"Norwich / New York, NY",0.0
+337,1.0,female,19.0,1.0,0.0,26.0,2,13,,"Norwich / New York, NY",1.0
+338,0.0,male,28.0,0.0,0.0,26.0,2,,,England,0.0
+339,1.0,male,1.0,2.0,1.0,39.0,2,11,,"Guntur, India / Benton Harbour, MI",0.0
+340,1.0,female,4.0,2.0,1.0,39.0,2,11,,"Guntur, India / Benton Harbour, MI",1.0
+341,1.0,female,12.0,2.0,1.0,39.0,2,13,,"Guntur, India / Benton Harbour, MI",1.0
+342,1.0,female,36.0,0.0,3.0,39.0,2,11,,"Guntur, India / Benton Harbour, MI",1.0
+343,1.0,male,34.0,0.0,0.0,13.0,2,13,,London,0.0
+344,1.0,female,19.0,0.0,0.0,13.0,2,12,,"Rochester, NY",1.0
+345,0.0,male,23.0,0.0,0.0,13.0,2,,,"St Ives, Cornwall / Calumet, MI",0.0
+346,0.0,male,26.0,0.0,0.0,13.0,2,,,"Elmira, NY / Orange, NJ",0.0
+347,0.0,male,42.0,0.0,0.0,13.0,2,,,London,0.0
+348,0.0,male,27.0,0.0,0.0,13.0,2,,,"Lake Arthur, Chavez County, NM",0.0
+349,1.0,female,24.0,0.0,0.0,13.0,2,11,,"London / Montreal, PQ",1.0
+350,1.0,female,15.0,0.0,2.0,39.0,2,14,,"Cape Town, South Africa / Seattle, WA",1.0
+351,0.0,male,60.0,1.0,1.0,39.0,2,,,"Cape Town, South Africa / Seattle, WA",0.0
+352,1.0,female,40.0,1.0,1.0,39.0,2,14,,"Cape Town, South Africa / Seattle, WA",1.0
+353,1.0,female,20.0,1.0,0.0,26.0,2,12,,"Skara, Sweden / Rockford, IL",1.0
+354,0.0,male,25.0,1.0,0.0,26.0,2,,,"Skara, Sweden / Rockford, IL",0.0
+355,1.0,female,36.0,0.0,0.0,13.0,2,9,,"Sittingbourne, England / San Diego, CA",1.0
+356,0.0,male,25.0,0.0,0.0,13.0,2,,97.0,"Southsea, Hants",0.0
+357,0.0,male,42.0,0.0,0.0,13.0,2,,,London,0.0
+358,1.0,female,42.0,0.0,0.0,13.0,2,,,"New York, NY",1.0
+359,1.0,male,0.8333,0.0,2.0,29.0,2,13,,"Bangkok, Thailand / Roseville, IL",0.0
+360,1.0,male,26.0,1.0,1.0,29.0,2,13,,"Bangkok, Thailand / Roseville, IL",0.0
+361,1.0,female,22.0,1.0,1.0,29.0,2,13,,"Bangkok, Thailand / Roseville, IL",1.0
+362,1.0,female,35.0,0.0,0.0,21.0,2,14,,"Mamaroneck, NY",1.0
+363,0.0,male,28.0,0.0,0.0,0.0,2,,,Belfast,0.0
+364,0.0,male,19.0,0.0,0.0,13.0,2,,18.0,"St Ives, Cornwall / Calumet, MI",0.0
+365,0.0,female,44.0,1.0,0.0,26.0,2,,,London,1.0
+366,0.0,male,54.0,1.0,0.0,26.0,2,,,London,0.0
+367,0.0,male,52.0,0.0,0.0,13.5,2,,130.0,"Bronx, NY",0.0
+368,0.0,male,37.0,1.0,0.0,26.0,2,,17.0,"Cornwall / Spokane, WA",0.0
+369,0.0,female,29.0,1.0,0.0,26.0,2,,,"Cornwall / Spokane, WA",1.0
+370,1.0,female,25.0,1.0,1.0,30.0,2,12,,London,1.0
+371,1.0,female,45.0,0.0,2.0,30.0,2,12,,London,1.0
+372,0.0,male,29.0,1.0,0.0,26.0,2,,,"England / San Francisco, CA",0.0
+373,1.0,female,28.0,1.0,0.0,26.0,2,14,,"England / San Francisco, CA",1.0
+374,0.0,male,29.0,0.0,0.0,10.5,2,,,"Hartford, Huntingdonshire",0.0
+375,0.0,male,28.0,0.0,0.0,13.0,2,,,"Helsinki, Finland Ashtabula, Ohio",0.0
+376,1.0,male,24.0,0.0,0.0,10.5,2,9,,"London / Fort Byron, NY",0.0
+377,1.0,female,8.0,0.0,2.0,26.25,2,14,,"Bishopstoke, Hants / Fayette Valley, ID",1.0
+378,0.0,male,31.0,1.0,1.0,26.25,2,,,"Bishopstoke, Hants / Fayette Valley, ID",0.0
+379,1.0,female,31.0,1.0,1.0,26.25,2,14,,"Bishopstoke, Hants / Fayette Valley, ID",1.0
+380,1.0,female,22.0,0.0,0.0,10.5,2,14,,Pennsylvania,1.0
+381,0.0,female,30.0,0.0,0.0,13.0,2,,,"Provo, UT",1.0
+382,0.0,female,28.0,0.0,0.0,21.0,2,,,"Upper Burma, India Pittsburgh, PA",1.0
+383,0.0,male,21.0,0.0,0.0,11.5,2,,,"Penzance, Cornwall / Akron, OH",0.0
+384,0.0,male,28.0,0.0,0.0,0.0,2,,,Belfast,0.0
+385,1.0,male,8.0,1.0,1.0,36.75,2,14,,"St Ives, Cornwall / Hancock, MI",0.0
+386,0.0,male,18.0,0.0,0.0,73.5,2,,,"Lyndhurst, England",0.0
+387,1.0,female,48.0,0.0,2.0,36.75,2,14,,"St Ives, Cornwall / Hancock, MI",1.0
+388,1.0,female,28.0,0.0,0.0,13.0,2,13,,"London / Staten Island, NY",1.0
+389,0.0,male,32.0,0.0,0.0,13.0,2,,,"Portugal / Sau Paulo, Brazil",0.0
+390,0.0,male,17.0,0.0,0.0,73.5,2,,,,0.0
+391,0.0,male,29.0,1.0,0.0,27.7208,0,,295.0,"Lucca, Italy / California",0.0
+392,1.0,female,24.0,1.0,0.0,27.7208,0,12,,"Lucca, Italy / California",1.0
+393,0.0,male,25.0,0.0,0.0,31.5,2,,,"Guernsey / Elizabeth, NJ",0.0
+394,0.0,male,18.0,0.0,0.0,73.5,2,,,"New Forest, England",0.0
+395,1.0,female,18.0,0.0,1.0,23.0,2,,,Southampton,1.0
+396,1.0,female,34.0,0.0,1.0,23.0,2,,,Southampton,1.0
+397,0.0,male,54.0,0.0,0.0,26.0,2,,,"Holley, NY",0.0
+398,1.0,male,8.0,0.0,2.0,32.5,2,10,,"Greenport, NY",0.0
+399,0.0,male,42.0,1.0,1.0,32.5,2,,,"Greenport, NY",0.0
+400,1.0,female,34.0,1.0,1.0,32.5,2,10,,"Greenport, NY",1.0
+401,1.0,female,27.0,1.0,0.0,13.8583,0,12,,"Barcelona, Spain / Havana, Cuba",1.0
+402,1.0,female,30.0,1.0,0.0,13.8583,0,12,,"Barcelona, Spain / Havana, Cuba",1.0
+403,0.0,male,23.0,0.0,0.0,13.0,2,,,"England / Detroit, MI",0.0
+404,0.0,male,21.0,0.0,0.0,13.0,2,,,"Goteborg, Sweden / Rockford, IL",0.0
+405,0.0,male,18.0,0.0,0.0,13.0,2,,,"Oslo, Norway Bayonne, NJ",0.0
+406,0.0,male,40.0,1.0,0.0,26.0,2,,286.0,"England / Philadelphia, PA",0.0
+407,1.0,female,29.0,1.0,0.0,26.0,2,16,,,1.0
+408,0.0,male,18.0,0.0,0.0,10.5,2,,,"Cornwall / Houghton, MI",0.0
+409,0.0,male,36.0,0.0,0.0,13.0,2,,236.0,"Rochester, NY",0.0
+410,0.0,male,28.0,0.0,0.0,0.0,2,,,Belfast,0.0
+411,0.0,female,38.0,0.0,0.0,13.0,2,,,"Janjgir, India / Pennsylvania",1.0
+412,0.0,male,35.0,0.0,0.0,26.0,2,,322.0,"Liverpool / Montreal, PQ",0.0
+413,0.0,male,38.0,1.0,0.0,21.0,2,,,"Cornwall / Clear Creek, CO",0.0
+414,0.0,male,34.0,1.0,0.0,21.0,2,,,"Cornwall / Clear Creek, CO",0.0
+415,1.0,female,34.0,0.0,0.0,13.0,2,12,,"Brooklyn, NY",1.0
+416,0.0,male,16.0,0.0,0.0,26.0,2,,,"Liverpool / Montreal, PQ",0.0
+417,0.0,male,26.0,0.0,0.0,10.5,2,,,"Guernsey / Elizabeth, NJ",0.0
+418,0.0,male,47.0,0.0,0.0,10.5,2,,,Cornwall,0.0
+419,0.0,male,21.0,1.0,0.0,11.5,2,,,"Cornwall / Camden, NJ",0.0
+420,0.0,male,21.0,1.0,0.0,11.5,2,,,"Cornwall / Camden, NJ",0.0
+421,0.0,male,24.0,0.0,0.0,13.5,2,,297.0,"West Kensington, London",0.0
+422,0.0,male,24.0,0.0,0.0,13.0,2,,155.0,"Clevedon, England",0.0
+423,0.0,male,34.0,0.0,0.0,13.0,2,,,"Vancouver, BC",0.0
+424,0.0,male,30.0,0.0,0.0,13.0,2,,305.0,,0.0
+425,0.0,male,52.0,0.0,0.0,13.0,2,,19.0,"Bronx, NY",0.0
+426,0.0,male,30.0,0.0,0.0,13.0,2,,75.0,"Auburn, NY",0.0
+427,1.0,male,0.6667,1.0,1.0,14.5,2,4,,"Detroit, MI",0.0
+428,1.0,female,24.0,0.0,2.0,14.5,2,4,,"Detroit, MI",1.0
+429,0.0,male,44.0,0.0,0.0,13.0,2,,35.0,"Seattle, WA / Toledo, OH",0.0
+430,1.0,female,6.0,0.0,1.0,33.0,2,11,,"Denmark Hill, Surrey / Chicago",1.0
+431,0.0,male,28.0,0.0,1.0,33.0,2,,,"Denmark Hill, Surrey / Chicago",0.0
+432,1.0,male,62.0,0.0,0.0,10.5,2,15,,London,0.0
+433,0.0,male,30.0,0.0,0.0,10.5,2,,,"Walthamstow, England",0.0
+434,1.0,female,7.0,0.0,2.0,26.25,2,14,,"Ilford, Essex / Winnipeg, MB",1.0
+435,0.0,male,43.0,1.0,1.0,26.25,2,,,"Ilford, Essex / Winnipeg, MB",0.0
+436,1.0,female,45.0,1.0,1.0,26.25,2,14,,"Ilford, Essex / Winnipeg, MB",1.0
+437,1.0,female,24.0,1.0,2.0,65.0,2,9,,"Somerset / Bernardsville, NJ",1.0
+438,1.0,female,24.0,1.0,2.0,65.0,2,9,,"Somerset / Bernardsville, NJ",1.0
+439,0.0,male,49.0,1.0,2.0,65.0,2,,,"Somerset / Bernardsville, NJ",0.0
+440,1.0,female,48.0,1.0,2.0,65.0,2,9,,"Somerset / Bernardsville, NJ",1.0
+441,1.0,female,55.0,0.0,0.0,16.0,2,13,,"India / Rapid City, SD",1.0
+442,0.0,male,24.0,2.0,0.0,73.5,2,,,"West Hampstead, London / Neepawa, MB",0.0
+443,0.0,male,32.0,2.0,0.0,73.5,2,,256.0,"West Hampstead, London / Neepawa, MB",0.0
+444,0.0,male,21.0,2.0,0.0,73.5,2,,,"West Hampstead, London / Neepawa, MB",0.0
+445,0.0,female,18.0,1.0,1.0,13.0,2,,,"Kontiolahti, Finland / Detroit, MI",1.0
+446,1.0,female,20.0,2.0,1.0,23.0,2,4,,"Cornwall / Akron, OH",1.0
+447,0.0,male,23.0,2.0,1.0,11.5,2,,,"Cornwall / Akron, OH",0.0
+448,0.0,male,36.0,0.0,0.0,13.0,2,,,"Devonport, England",0.0
+449,1.0,female,54.0,1.0,3.0,23.0,2,4,,"Cornwall / Akron, OH",1.0
+450,0.0,male,50.0,0.0,0.0,13.0,2,,149.0,Southampton,0.0
+451,0.0,male,44.0,1.0,0.0,26.0,2,,,"England / Sacramento, CA",0.0
+452,1.0,female,29.0,1.0,0.0,26.0,2,10,,"England / Sacramento, CA",1.0
+453,0.0,male,21.0,0.0,0.0,73.5,2,,,"New Forest, England",0.0
+454,1.0,male,42.0,0.0,0.0,13.0,2,10,,"Tokyo, Japan",0.0
+455,0.0,male,63.0,1.0,0.0,26.0,2,,,"Swindon, England",0.0
+456,0.0,female,60.0,1.0,0.0,26.0,2,,,"Swindon, England",1.0
+457,0.0,male,33.0,0.0,0.0,12.275,2,,,"Philadelphia, PA",0.0
+458,1.0,female,17.0,0.0,0.0,10.5,2,,,Guernsey,1.0
+459,0.0,male,42.0,1.0,0.0,27.0,2,,,London,0.0
+460,1.0,female,24.0,2.0,1.0,27.0,2,12,,London,1.0
+461,0.0,male,47.0,0.0,0.0,15.0,2,,,"North Evington, England",0.0
+462,0.0,male,24.0,2.0,0.0,31.5,2,,,"Guernsey / Elizabeth, NJ",0.0
+463,0.0,male,22.0,2.0,0.0,31.5,2,,,"Guernsey / Elizabeth, NJ",0.0
+464,0.0,male,32.0,0.0,0.0,10.5,2,,,"St Ives, Cornwall / Houghton, MI",0.0
+465,1.0,female,23.0,0.0,0.0,13.7917,0,11,,"New York, NY",1.0
+466,0.0,male,34.0,1.0,0.0,26.0,2,,283.0,"Moscow / Bronx, NY",0.0
+467,1.0,female,24.0,1.0,0.0,26.0,2,12,,"Moscow / Bronx, NY",1.0
+468,0.0,female,22.0,0.0,0.0,21.0,2,,,"India / Pittsburgh, PA",1.0
+469,1.0,female,28.0,0.0,0.0,12.35,1,10,,"Harrisburg, PA",1.0
+470,0.0,male,35.0,0.0,0.0,12.35,1,,,,0.0
+471,1.0,female,45.0,0.0,0.0,13.5,2,9,,"London / New York, NY",1.0
+472,0.0,male,57.0,0.0,0.0,12.35,1,,,"Glasgow / Bangor, ME",0.0
+473,0.0,male,28.0,0.0,0.0,0.0,2,,,Belfast,0.0
+474,0.0,male,31.0,0.0,0.0,10.5,2,,165.0,"Sweden / Arlington, NJ",0.0
+475,0.0,female,26.0,1.0,1.0,26.0,2,,,"Minneapolis, MN",1.0
+476,0.0,male,30.0,1.0,1.0,26.0,2,,,"Minneapolis, MN",0.0
+477,0.0,male,28.0,0.0,0.0,10.7083,1,,,,0.0
+478,1.0,female,1.0,1.0,2.0,41.5792,0,14,,Paris / Haiti,1.0
+479,1.0,female,3.0,1.0,2.0,41.5792,0,14,,Paris / Haiti,1.0
+480,0.0,male,25.0,1.0,2.0,41.5792,0,,,Paris / Haiti,0.0
+481,1.0,female,22.0,1.0,2.0,41.5792,0,14,,Paris / Haiti,1.0
+482,1.0,female,17.0,0.0,0.0,12.0,0,12,,"Berne, Switzerland / Central City, IA",1.0
+483,1.0,female,28.0,0.0,0.0,33.0,2,11,,"London / Chicago, IL",1.0
+484,1.0,female,34.0,0.0,0.0,10.5,2,14,,"Chicago, IL",1.0
+485,0.0,male,36.0,0.0,0.0,12.875,0,,,"Montreal, PQ",0.0
+486,0.0,male,24.0,0.0,0.0,10.5,2,,108.0,,0.0
+487,0.0,male,61.0,0.0,0.0,12.35,1,,,,0.0
+488,0.0,male,50.0,1.0,0.0,26.0,2,,121.0,"Weston-Super-Mare, Somerset",0.0
+489,1.0,female,42.0,1.0,0.0,26.0,2,,,"Weston-Super-Mare, Somerset",1.0
+490,0.0,female,57.0,0.0,0.0,10.5,2,,52.0,"Southampton / New York, NY",1.0
+491,0.0,male,28.0,0.0,0.0,15.0458,0,,,Paris,0.0
+492,1.0,male,1.0,0.0,2.0,37.0042,0,10,,"Paris / Montreal, PQ",0.0
+493,0.0,male,31.0,1.0,1.0,37.0042,0,,,"Paris / Montreal, PQ",0.0
+494,1.0,female,24.0,1.0,1.0,37.0042,0,10,,"Paris / Montreal, PQ",1.0
+495,0.0,male,28.0,0.0,0.0,15.5792,0,,,"New York, NY",0.0
+496,0.0,male,30.0,0.0,0.0,13.0,2,,,"St Austall, Cornwall",0.0
+497,0.0,male,40.0,0.0,0.0,16.0,2,,,"Weston-Super-Mare / Moose Jaw, SK",0.0
+498,0.0,male,32.0,0.0,0.0,13.5,2,,209.0,"Sydney, Australia",0.0
+499,0.0,male,30.0,0.0,0.0,13.0,2,,,"Sarnia, ON",0.0
+500,0.0,male,46.0,0.0,0.0,26.0,2,,,"Rochester, NY",0.0
+501,1.0,female,13.0,0.0,1.0,19.5,2,14,,"England / Bennington, VT",1.0
+502,1.0,female,41.0,0.0,1.0,19.5,2,14,,"England / Bennington, VT",1.0
+503,1.0,male,19.0,0.0,0.0,10.5,2,B,,"Chelsea, London",0.0
+504,0.0,male,39.0,0.0,0.0,13.0,2,,,"Harrow-on-the-Hill, Middlesex",0.0
+505,0.0,male,48.0,0.0,0.0,13.0,2,,271.0,"Copenhagen, Denmark",0.0
+506,0.0,male,70.0,0.0,0.0,10.5,2,,,"Guernsey / Montclair, NJ and/or Toledo, Ohio",0.0
+507,0.0,male,27.0,0.0,0.0,13.0,2,,,"Worcester, MA",0.0
+508,0.0,male,54.0,0.0,0.0,14.0,2,,,"Frankfort, KY",0.0
+509,0.0,male,39.0,0.0,0.0,26.0,2,,,,0.0
+510,0.0,male,16.0,0.0,0.0,10.5,2,,,"Halesworth, England",0.0
+511,0.0,male,62.0,0.0,0.0,9.6875,1,,,"Cambridge, MA",0.0
+512,0.0,male,32.5,1.0,0.0,30.0708,0,,43.0,"New York, NY",0.0
+513,1.0,female,14.0,1.0,0.0,30.0708,0,,,"New York, NY",1.0
+514,1.0,male,2.0,1.0,1.0,26.0,2,D,,"Nice, France",0.0
+515,1.0,male,3.0,1.0,1.0,26.0,2,D,,"Nice, France",0.0
+516,0.0,male,36.5,0.0,2.0,26.0,2,,15.0,"Nice, France",0.0
+517,0.0,male,26.0,0.0,0.0,13.0,2,,,"Boston, MA",0.0
+518,0.0,male,19.0,1.0,1.0,36.75,2,,101.0,"Cornwall / Hancock, MI",0.0
+519,0.0,male,28.0,0.0,0.0,13.5,2,,287.0,Glasgow,0.0
+520,1.0,male,20.0,0.0,0.0,13.8625,0,7,,"Cologne, Germany",0.0
+521,1.0,female,29.0,0.0,0.0,10.5,2,11,,"Folkstone, Kent / New York, NY",1.0
+522,0.0,male,39.0,0.0,0.0,13.0,2,,,"Middleburg Heights, OH",0.0
+523,1.0,male,22.0,0.0,0.0,10.5,2,13,,"Pondersend, England / New Durham, NJ",0.0
+524,1.0,male,28.0,0.0,0.0,13.8625,0,9,,"Spain / Havana, Cuba",0.0
+525,0.0,male,23.0,0.0,0.0,10.5,2,,,"Hamilton, ON",0.0
+526,1.0,male,29.0,0.0,0.0,13.8583,0,9,,"Spain / Havana, Cuba",0.0
+527,0.0,male,28.0,0.0,0.0,10.5,2,,,"St Andrews, Guernsey",0.0
+528,0.0,male,28.0,0.0,0.0,0.0,2,,,Belfast,0.0
+529,1.0,female,50.0,0.0,1.0,26.0,2,12,,"Woodford County, KY",1.0
+530,0.0,male,19.0,0.0,0.0,10.5,2,,,"Gunnislake, England / Butte, MT",0.0
+531,0.0,male,28.0,0.0,0.0,15.05,0,,,,0.0
+532,0.0,male,41.0,0.0,0.0,13.0,2,,,,0.0
+533,1.0,female,21.0,0.0,1.0,21.0,2,12,,"Ilfracombe, Devon",1.0
+534,1.0,female,19.0,0.0,0.0,26.0,2,11,,"Worcester, England",1.0
+535,0.0,male,43.0,0.0,1.0,21.0,2,,,"Ilfracombe, Devon",0.0
+536,1.0,female,32.0,0.0,0.0,13.0,2,9,,Russia,1.0
+537,0.0,male,34.0,0.0,0.0,13.0,2,,,"Denmark / New York, NY",0.0
+538,1.0,male,30.0,0.0,0.0,12.7375,0,14,,"Milford, NH",0.0
+539,0.0,male,27.0,0.0,0.0,15.0333,0,,,Paris,0.0
+540,1.0,female,2.0,1.0,1.0,26.0,2,11,,"Plymouth, Devon / Detroit, MI",1.0
+541,1.0,female,8.0,1.0,1.0,26.0,2,11,,"Plymouth, Devon / Detroit, MI",1.0
+542,1.0,female,33.0,0.0,2.0,26.0,2,11,,"Plymouth, Devon / Detroit, MI",1.0
+543,0.0,male,36.0,0.0,0.0,10.5,2,,,"Brighton, Sussex",0.0
+544,0.0,male,34.0,1.0,0.0,21.0,2,12,,"Elizabeth, NJ",0.0
+545,1.0,female,30.0,3.0,0.0,21.0,2,,,"Elizabeth, NJ",1.0
+546,1.0,female,28.0,0.0,0.0,13.0,2,9,,Spain,1.0
+547,0.0,male,23.0,0.0,0.0,15.0458,0,,,"Paris / Montreal, PQ",0.0
+548,1.0,male,0.8333,1.0,1.0,18.75,2,4,,"Cornwall / Akron, OH",0.0
+549,1.0,male,3.0,1.0,1.0,18.75,2,4,,"Cornwall / Akron, OH",0.0
+550,1.0,female,24.0,2.0,3.0,18.75,2,4,,"Cornwall / Akron, OH",1.0
+551,1.0,female,50.0,0.0,0.0,10.5,2,13,,"London, England / Marietta, Ohio and Milwaukee, WI",1.0
+552,0.0,male,19.0,0.0,0.0,10.5,2,,,,0.0
+553,1.0,female,21.0,0.0,0.0,10.5,2,12,,"Guernsey / Wilmington, DE",1.0
+554,0.0,male,26.0,0.0,0.0,13.0,2,,,"Newark, NJ",0.0
+555,0.0,male,25.0,0.0,0.0,13.0,2,,,Liverpool,0.0
+556,0.0,male,27.0,0.0,0.0,26.0,2,,,"Hornsey, England",0.0
+557,1.0,female,25.0,0.0,1.0,26.0,2,12,,"Deer Lodge, MT",1.0
+558,1.0,female,18.0,0.0,2.0,13.0,2,16,,"Finland / Minneapolis, MN",1.0
+559,1.0,female,20.0,0.0,0.0,36.75,2,11,,"Cornwall / Hancock, MI",1.0
+560,1.0,female,30.0,0.0,0.0,13.0,2,10,,"Finland / Washington, DC",1.0
+561,0.0,male,59.0,0.0,0.0,13.5,2,,,"Sault St Marie, ON",0.0
+562,1.0,female,30.0,0.0,0.0,12.35,1,13,,"Halifax, NS",1.0
+563,0.0,male,35.0,0.0,0.0,10.5,2,,,Cornwall,0.0
+564,1.0,female,40.0,0.0,0.0,13.0,2,9,,,1.0
+565,0.0,male,25.0,0.0,0.0,13.0,2,,,"Cornwall / Houghton, MI",0.0
+566,0.0,male,41.0,0.0,0.0,15.0458,0,,,"New York, NY",0.0
+567,0.0,male,25.0,0.0,0.0,10.5,2,,81.0,"Catford, Kent / Detroit, MI",0.0
+568,0.0,male,18.5,0.0,0.0,13.0,2,,294.0,,0.0
+569,0.0,male,14.0,0.0,0.0,65.0,2,,,"Somerset / Bernardsville, NJ",0.0
+570,1.0,female,50.0,0.0,0.0,10.5,2,9,,"Indianapolis, IN",1.0
+571,0.0,male,23.0,0.0,0.0,13.0,2,,,,0.0
+572,1.0,female,28.0,0.0,0.0,12.65,2,,,"Columbus, OH",1.0
+573,1.0,female,27.0,0.0,0.0,10.5,2,16,,"Bath, England / Massachusetts",1.0
+574,0.0,male,29.0,1.0,0.0,21.0,2,,,"Plymouth, England",0.0
+575,0.0,female,27.0,1.0,0.0,21.0,2,,,"Plymouth, England",1.0
+576,0.0,male,40.0,0.0,0.0,13.0,2,,,"Barre, Co Washington, VT",0.0
+577,1.0,female,31.0,0.0,0.0,21.0,2,14,,"Mamaroneck, NY",1.0
+578,0.0,male,30.0,1.0,0.0,21.0,2,,,"Bristol, England / New Britain, CT",0.0
+579,0.0,male,23.0,1.0,0.0,10.5,2,,,,0.0
+580,1.0,female,31.0,0.0,0.0,21.0,2,10,,"Bristol, England / New Britain, CT",1.0
+581,0.0,male,28.0,0.0,0.0,0.0,2,,,Belfast,0.0
+582,1.0,female,12.0,0.0,0.0,15.75,2,9,,"Aberdeen / Portland, OR",1.0
+583,1.0,female,40.0,0.0,0.0,15.75,2,9,,"Aberdeen / Portland, OR",1.0
+584,1.0,female,32.5,0.0,0.0,13.0,2,12,,"England / Hartford, CT",1.0
+585,0.0,male,27.0,1.0,0.0,26.0,2,,293.0,"Bromsgrove, England / Montreal, PQ",0.0
+586,1.0,female,29.0,1.0,0.0,26.0,2,10,,"Bromsgrove, England / Montreal, PQ",1.0
+587,1.0,male,2.0,1.0,1.0,23.0,2,14,,"Cornwall / Akron, OH",0.0
+588,1.0,female,4.0,1.0,1.0,23.0,2,14,,"Cornwall / Akron, OH",1.0
+589,1.0,female,29.0,0.0,2.0,23.0,2,14,,"Cornwall / Akron, OH",1.0
+590,1.0,female,0.9167,1.0,2.0,27.75,2,10,,"Bournmouth, England",1.0
+591,1.0,female,5.0,1.0,2.0,27.75,2,10,,"Bournmouth, England",1.0
+592,0.0,male,36.0,1.0,2.0,27.75,2,,,"Bournmouth, England",0.0
+593,1.0,female,33.0,1.0,2.0,27.75,2,10,,"Bournmouth, England",1.0
+594,0.0,male,66.0,0.0,0.0,10.5,2,,,"Guernsey, England / Edgewood, RI",0.0
+595,0.0,male,28.0,0.0,0.0,12.875,2,,,,0.0
+596,1.0,male,31.0,0.0,0.0,13.0,2,9,,"London, England",0.0
+597,1.0,male,28.0,0.0,0.0,13.0,2,14,,"Harrow, England",0.0
+598,1.0,female,26.0,0.0,0.0,13.5,2,9,,"Yoevil, England / Cottage Grove, OR",1.0
+599,0.0,female,24.0,0.0,0.0,13.0,2,,,Paris,1.0
+600,0.0,male,42.0,0.0,0.0,7.55,2,,,,0.0
+601,0.0,male,13.0,0.0,2.0,20.25,2,,,"East Providence, RI",0.0
+602,0.0,male,16.0,1.0,1.0,20.25,2,,190.0,"East Providence, RI",0.0
+603,1.0,female,35.0,1.0,1.0,20.25,2,A,,"East Providence, RI",1.0
+604,1.0,female,16.0,0.0,0.0,7.65,2,16,,"Norway Los Angeles, CA",1.0
+605,1.0,male,25.0,0.0,0.0,7.65,2,A,,"Perkins County, SD",0.0
+606,1.0,male,20.0,0.0,0.0,7.925,2,15,,"Taalintehdas, Finland Hoboken, NJ",0.0
+607,1.0,female,18.0,0.0,0.0,7.2292,0,C,,"Greensburg, PA",1.0
+608,0.0,male,30.0,0.0,0.0,7.25,2,,72.0,"Asarum, Sweden Brooklyn, NY",0.0
+609,0.0,male,26.0,0.0,0.0,8.05,2,,103.0,"Bournemouth, England",0.0
+610,0.0,female,40.0,1.0,0.0,9.475,2,,,"Sweden Akeley, MN",1.0
+611,1.0,male,0.8333,0.0,1.0,9.35,2,11,,"London, England Norfolk, VA",0.0
+612,1.0,female,18.0,0.0,1.0,9.35,2,13,,"London, England Norfolk, VA",1.0
+613,1.0,male,26.0,0.0,0.0,18.7875,0,15,,"Syria Fredericksburg, VA",0.0
+614,0.0,male,26.0,0.0,0.0,7.8875,2,,,"England Albion, NY",0.0
+615,0.0,male,20.0,0.0,0.0,7.925,2,,,"Salo, Finland Astoria, OR",0.0
+616,0.0,male,24.0,0.0,0.0,7.05,2,,,,0.0
+617,0.0,male,25.0,0.0,0.0,7.05,2,,79.0,Argentina,0.0
+618,0.0,male,35.0,0.0,0.0,8.05,2,,,"Lower Clapton, Middlesex or Erdington, Birmingham",0.0
+619,0.0,male,18.0,0.0,0.0,8.3,2,,259.0,"Windsor, England New York, NY",0.0
+620,0.0,male,32.0,0.0,0.0,22.525,2,,260.0,"Bergen, Norway",0.0
+621,1.0,female,19.0,1.0,0.0,7.8542,2,16,,,1.0
+622,0.0,male,4.0,4.0,2.0,31.275,2,,,"Sweden Winnipeg, MN",0.0
+623,0.0,female,6.0,4.0,2.0,31.275,2,,,"Sweden Winnipeg, MN",1.0
+624,0.0,female,2.0,4.0,2.0,31.275,2,,,"Sweden Winnipeg, MN",1.0
+625,1.0,female,17.0,4.0,2.0,7.925,2,D,,"Ruotsinphyhtaa, Finland New York, NY",1.0
+626,0.0,female,38.0,4.0,2.0,7.775,2,,,"Vadsbro, Sweden Ministee, MI",1.0
+627,0.0,female,9.0,4.0,2.0,31.275,2,,,"Sweden Winnipeg, MN",1.0
+628,0.0,female,11.0,4.0,2.0,31.275,2,,,"Sweden Winnipeg, MN",1.0
+629,0.0,male,39.0,1.0,5.0,31.275,2,,,"Sweden Winnipeg, MN",0.0
+630,1.0,male,27.0,0.0,0.0,7.7958,2,A,,,0.0
+631,0.0,male,26.0,0.0,0.0,7.775,2,,,"Hartford, CT",0.0
+632,0.0,female,39.0,1.0,5.0,31.275,2,,,"Sweden Winnipeg, MN",1.0
+633,0.0,male,20.0,0.0,0.0,7.8542,2,,,"Sweden Chicago, IL",0.0
+634,0.0,male,26.0,0.0,0.0,7.8958,2,,,"Bulgaria Chicago, IL",0.0
+635,0.0,male,25.0,1.0,0.0,17.8,2,,,"Altdorf, Switzerland",0.0
+636,0.0,female,18.0,1.0,0.0,17.8,2,,,"Altdorf, Switzerland",1.0
+637,0.0,male,24.0,0.0,0.0,7.775,2,,,"Sweden Joliet, IL",0.0
+638,0.0,male,35.0,0.0,0.0,7.05,2,,,,0.0
+639,0.0,male,5.0,4.0,2.0,31.3875,2,,,"Sweden  Worcester, MA",0.0
+640,0.0,male,9.0,4.0,2.0,31.3875,2,,,"Sweden Worcester, MA",0.0
+641,1.0,male,3.0,4.0,2.0,31.3875,2,15,,"Sweden Worcester, MA",0.0
+642,0.0,male,13.0,4.0,2.0,31.3875,2,,,"Sweden Worcester, MA",0.0
+643,1.0,female,5.0,4.0,2.0,31.3875,2,15,,"Sweden Worcester, MA",1.0
+644,0.0,male,40.0,1.0,5.0,31.3875,2,,142.0,"Sweden  Worcester, MA",0.0
+645,1.0,male,23.0,0.0,0.0,7.7958,2,13,,"Oskarshamn, Sweden Minneapolis, MN",0.0
+646,1.0,female,38.0,1.0,5.0,31.3875,2,15,,"Sweden  Worcester, MA",1.0
+647,1.0,female,45.0,0.0,0.0,7.225,0,C,,"Ottawa, ON",1.0
+648,0.0,male,21.0,0.0,0.0,7.225,0,,,"Ottawa, ON",0.0
+649,0.0,male,23.0,0.0,0.0,7.05,2,,,,0.0
+650,0.0,female,17.0,0.0,0.0,14.4583,0,,,,1.0
+651,0.0,male,30.0,0.0,0.0,7.225,0,,,"Ottawa, ON",0.0
+652,0.0,male,23.0,0.0,0.0,7.8542,2,,,"Krakoryd, Sweden Bloomington, IL",0.0
+653,1.0,female,13.0,0.0,0.0,7.2292,0,C,,"Syria Youngstown, OH",1.0
+654,0.0,male,20.0,0.0,0.0,7.225,0,,,,0.0
+655,0.0,male,32.0,1.0,0.0,15.85,2,D,,"Ruotsinphytaa, Finland New York, NY",0.0
+656,1.0,female,33.0,3.0,0.0,15.85,2,,,"Ruotsinphytaa, Finland New York, NY",1.0
+657,1.0,female,0.75,2.0,1.0,19.2583,0,C,,"Syria New York, NY",1.0
+658,1.0,female,0.75,2.0,1.0,19.2583,0,C,,"Syria New York, NY",1.0
+659,1.0,female,5.0,2.0,1.0,19.2583,0,C,,"Syria New York, NY",1.0
+660,1.0,female,24.0,0.0,3.0,19.2583,0,C,,"Syria New York, NY",1.0
+661,1.0,female,18.0,0.0,0.0,8.05,2,C,,"London Skanteales, NY",1.0
+662,0.0,male,40.0,0.0,0.0,7.225,0,,,,0.0
+663,0.0,male,26.0,0.0,0.0,7.8958,2,,,,0.0
+664,1.0,male,20.0,0.0,0.0,7.2292,0,15,,,0.0
+665,0.0,female,18.0,0.0,1.0,14.4542,0,,,"Syria Ottawa, ON",1.0
+666,0.0,female,45.0,0.0,1.0,14.4542,0,,,"Syria Ottawa, ON",1.0
+667,0.0,female,27.0,0.0,0.0,7.8792,1,,,"New York, NY",1.0
+668,0.0,male,22.0,0.0,0.0,8.05,2,,,"England New York, NY",0.0
+669,0.0,male,19.0,0.0,0.0,8.05,2,,,England,0.0
+670,0.0,male,26.0,0.0,0.0,7.775,2,,,"Krakudden, Sweden Moune, IL",0.0
+671,0.0,male,22.0,0.0,0.0,9.35,2,,,"Tranvik, Finland New York",0.0
+672,0.0,male,28.0,0.0,0.0,7.2292,0,,,,0.0
+673,0.0,male,20.0,0.0,0.0,4.0125,0,,,Syria,0.0
+674,1.0,male,32.0,0.0,0.0,56.4958,2,C,,"Hong Kong New York, NY",0.0
+675,0.0,male,21.0,0.0,0.0,7.775,2,,,"Brennes, Norway New York",0.0
+676,0.0,male,18.0,0.0,0.0,7.75,2,,,"Stockholm, Sweden New York",0.0
+677,0.0,male,26.0,0.0,0.0,7.8958,2,,,"Bulgaria Chicago, IL",0.0
+678,0.0,male,6.0,1.0,1.0,15.2458,0,,,"Syria Kent, ON",0.0
+679,0.0,female,9.0,1.0,1.0,15.2458,0,,,"Syria Kent, ON",1.0
+680,0.0,male,28.0,0.0,0.0,7.225,0,,,Syria,0.0
+681,0.0,female,28.0,0.0,2.0,15.2458,0,,,"Syria Kent, ON",1.0
+682,0.0,female,28.0,0.0,2.0,7.75,1,,,"Ireland Chicago, IL",1.0
+683,0.0,male,40.0,1.0,1.0,15.5,1,,,"Ireland Chicago, IL",0.0
+684,0.0,female,32.0,1.0,1.0,15.5,1,,,"Ireland Chicago, IL",1.0
+685,0.0,male,21.0,0.0,0.0,16.1,2,,,"Treherbert, Cardiff, Wales",0.0
+686,1.0,female,22.0,0.0,0.0,7.725,1,13,,"Kingwilliamstown, Co Cork, Ireland Glens Falls, NY",1.0
+687,0.0,female,20.0,0.0,0.0,7.8542,2,,,"Medeltorp, Sweden Chicago, IL",1.0
+688,0.0,male,29.0,1.0,0.0,7.0458,2,,,"Bridgerule, Devon",0.0
+689,0.0,male,22.0,1.0,0.0,7.25,2,,,"Bridgerule, Devon",0.0
+690,0.0,male,22.0,0.0,0.0,7.7958,2,,,"Sweden Worcester, MA",0.0
+691,0.0,male,35.0,0.0,0.0,8.05,2,,,"Broomfield, Chelmsford, England",0.0
+692,0.0,female,18.5,0.0,0.0,7.2833,1,,299.0,"Co Cork, Ireland Roxbury, MA",1.0
+693,1.0,male,21.0,0.0,0.0,7.8208,1,13,,"Kingwilliamstown, Co Cork, Ireland New York, NY",0.0
+694,0.0,male,19.0,0.0,0.0,6.75,1,,,"Co Cork, Ireland Charlestown, MA",0.0
+695,0.0,female,18.0,0.0,0.0,7.8792,1,,,"Co Sligo, Ireland New York, NY",1.0
+696,0.0,female,21.0,0.0,0.0,8.6625,2,,,,1.0
+697,0.0,female,30.0,0.0,0.0,8.6625,2,,,,1.0
+698,0.0,male,18.0,0.0,0.0,8.6625,2,,,,0.0
+699,0.0,male,38.0,0.0,0.0,8.6625,2,,,Croatia,0.0
+700,0.0,male,17.0,0.0,0.0,8.6625,2,,,,0.0
+701,0.0,male,17.0,0.0,0.0,8.6625,2,,,,0.0
+702,0.0,female,21.0,0.0,0.0,7.75,1,,,,1.0
+703,0.0,male,21.0,0.0,0.0,7.75,1,,,"Ireland Philadelphia, PA",0.0
+704,0.0,male,21.0,0.0,0.0,8.05,2,,,,0.0
+705,0.0,male,28.0,1.0,0.0,14.4583,0,,,"Ottawa, ON",0.0
+706,0.0,female,28.0,1.0,0.0,14.4583,0,,,"Ottawa, ON",1.0
+707,0.0,male,28.0,0.0,0.0,7.7958,2,,,"Dagsas, Sweden Fower, MN",0.0
+708,0.0,male,24.0,0.0,0.0,7.8542,2,,,"Goteborg, Sweden Huntley, IL",0.0
+709,1.0,female,16.0,0.0,0.0,7.75,1,16,,"Co Longford, Ireland New York, NY",1.0
+710,0.0,female,37.0,0.0,0.0,7.75,1,,,"Co Sligo, Ireland Hartford, CT",1.0
+711,0.0,male,28.0,0.0,0.0,7.25,2,,,"St Denys, Southampton, Hants",0.0
+712,0.0,male,24.0,0.0,0.0,8.05,2,,,London,0.0
+713,0.0,male,21.0,0.0,0.0,7.7333,1,,,"Ireland New York, NY",0.0
+714,1.0,male,32.0,0.0,0.0,56.4958,2,C,,"Hong Kong New York, NY",0.0
+715,0.0,male,29.0,0.0,0.0,8.05,2,,,,0.0
+716,0.0,male,26.0,1.0,0.0,14.4542,0,,,Greece,0.0
+717,0.0,male,18.0,1.0,0.0,14.4542,0,,,Greece,0.0
+718,0.0,male,20.0,0.0,0.0,7.05,2,,,Portugal,0.0
+719,1.0,male,18.0,0.0,0.0,8.05,2,12,,"London Brooklyn, NY",0.0
+720,0.0,male,24.0,0.0,0.0,7.25,1,,,"Co Limerick, Ireland Sherbrooke, PQ",0.0
+721,0.0,male,36.0,0.0,0.0,7.4958,2,,,"Bulgaria Chicago, IL",0.0
+722,0.0,male,24.0,0.0,0.0,7.4958,2,,,,0.0
+723,0.0,male,31.0,0.0,0.0,7.7333,1,,,"Philadelphia, PA",0.0
+724,0.0,male,31.0,0.0,0.0,7.75,1,,,"Ireland Brooklyn, NY",0.0
+725,1.0,female,22.0,0.0,0.0,7.75,1,13,,Ireland,1.0
+726,0.0,female,30.0,0.0,0.0,7.6292,1,,,Ireland,1.0
+727,0.0,male,70.5,0.0,0.0,7.75,1,,171.0,,0.0
+728,0.0,male,43.0,0.0,0.0,8.05,2,,,,0.0
+729,0.0,male,35.0,0.0,0.0,7.8958,2,,,Austria,0.0
+730,0.0,male,27.0,0.0,0.0,7.8958,2,,,Austria,0.0
+731,0.0,male,19.0,0.0,0.0,7.8958,2,,,Austria,0.0
+732,0.0,male,30.0,0.0,0.0,8.05,2,,,London,0.0
+733,1.0,male,9.0,1.0,1.0,15.9,2,2,,"England Brooklyn, NY",0.0
+734,1.0,male,3.0,1.0,1.0,15.9,2,2,,"England Brooklyn, NY",0.0
+735,1.0,female,36.0,0.0,2.0,15.9,2,2,,"England Brooklyn, NY",1.0
+736,0.0,male,59.0,0.0,0.0,7.25,2,,,"Merrill, WI",0.0
+737,0.0,male,19.0,0.0,0.0,8.1583,2,,,"Bristol, England Cleveland, OH",0.0
+738,1.0,female,17.0,0.0,1.0,16.1,2,12,,"Bournemouth, England Newark, NJ",1.0
+739,0.0,male,44.0,0.0,1.0,16.1,2,,,"Bournemouth, England Newark, NJ",0.0
+740,0.0,male,17.0,0.0,0.0,8.6625,2,,,Austria-Hungary,0.0
+741,0.0,male,22.5,0.0,0.0,7.225,0,,9.0,,0.0
+742,1.0,male,45.0,0.0,0.0,8.05,2,15,,"Australia Fingal, ND",0.0
+743,0.0,female,22.0,0.0,0.0,10.5167,2,,,"Norrlot, Sweden Chicago, IL",1.0
+744,0.0,male,19.0,0.0,0.0,10.1708,2,,,Austria,0.0
+745,1.0,female,30.0,0.0,0.0,6.95,1,15,,"Co Athlone, Ireland New York, NY",1.0
+746,1.0,male,29.0,0.0,0.0,7.75,1,13 15 B,,"Co Athlone, Ireland New York, NY",0.0
+747,0.0,male,0.3333,0.0,2.0,14.4,2,,,"Stanton, IA",0.0
+748,0.0,male,34.0,1.0,1.0,14.4,2,,197.0,"Stanton, IA",0.0
+749,0.0,female,28.0,1.0,1.0,14.4,2,,,"Stanton, IA",1.0
+750,0.0,male,27.0,0.0,0.0,7.8958,2,,,"Bulgaria Chicago, IL",0.0
+751,0.0,male,25.0,0.0,0.0,7.8958,2,,,"Bulgaria Chicago, IL",0.0
+752,0.0,male,24.0,2.0,0.0,24.15,2,,,"West Bromwich, England Pontiac, MI",0.0
+753,0.0,male,22.0,0.0,0.0,8.05,2,,,,0.0
+754,0.0,male,21.0,2.0,0.0,24.15,2,,,"West Bromwich, England Pontiac, MI",0.0
+755,0.0,male,17.0,2.0,0.0,8.05,2,,,"West Bromwich, England Pontiac, MI",0.0
+756,0.0,male,28.0,1.0,0.0,16.1,2,,,"Liverpool, England Bedford, OH",0.0
+757,1.0,female,28.0,1.0,0.0,16.1,2,16,,"Liverpool, England Bedford, OH",1.0
+758,1.0,male,36.5,1.0,0.0,17.4,2,15,,"Tampico, MT",0.0
+759,1.0,female,36.0,1.0,0.0,17.4,2,13,,"Tampico, MT",1.0
+760,1.0,male,30.0,0.0,0.0,9.5,2,11,,"Belgium Detroit, MI",0.0
+761,0.0,male,16.0,0.0,0.0,9.5,2,,,,0.0
+762,1.0,male,1.0,1.0,2.0,20.575,2,10,,"Devon, England Wichita, KS",0.0
+763,1.0,female,0.1667,1.0,2.0,20.575,2,10,,"Devon, England Wichita, KS",1.0
+764,0.0,male,26.0,1.0,2.0,20.575,2,,,"Devon, England Wichita, KS",0.0
+765,1.0,female,33.0,1.0,2.0,20.575,2,10,,"Devon, England Wichita, KS",1.0
+766,0.0,male,25.0,0.0,0.0,7.8958,2,,,,0.0
+767,0.0,male,28.0,0.0,0.0,7.8958,2,,,,0.0
+768,0.0,male,28.0,0.0,0.0,7.8958,2,,,"Bulgaria Coon Rapids, IA",0.0
+769,0.0,male,22.0,0.0,0.0,7.25,2,,,,0.0
+770,0.0,male,36.0,0.0,0.0,7.25,2,,,,0.0
+771,1.0,female,19.0,0.0,0.0,7.8792,1,C,,"Kilmacowen, Co Sligo, Ireland New York, NY",1.0
+772,0.0,male,17.0,0.0,0.0,7.8958,2,,,,0.0
+773,0.0,male,42.0,0.0,0.0,8.6625,2,,,,0.0
+774,0.0,male,43.0,0.0,0.0,7.8958,2,,,,0.0
+775,0.0,male,28.0,0.0,0.0,7.2292,0,,,,0.0
+776,0.0,male,32.0,0.0,0.0,7.75,1,,,"Ireland New York, NY",0.0
+777,1.0,male,19.0,0.0,0.0,8.05,2,B,,"England Oglesby, IL",0.0
+778,1.0,female,30.0,0.0,0.0,12.475,2,13,,"Union Hill, NJ",1.0
+779,0.0,female,24.0,0.0,0.0,7.75,1,,,"Ireland New York, NY",1.0
+780,1.0,female,23.0,0.0,0.0,8.05,2,,,"London New York, NY",1.0
+781,0.0,male,33.0,0.0,0.0,7.8958,0,,51.0,"Austria Niagara Falls, NY",0.0
+782,0.0,male,65.0,0.0,0.0,7.75,1,,,,0.0
+783,1.0,male,24.0,0.0,0.0,7.55,2,D,,"England Albion, NY",0.0
+784,0.0,male,23.0,1.0,0.0,13.9,2,,,"West Haven, CT",0.0
+785,1.0,female,22.0,1.0,0.0,13.9,2,16,,"West Haven, CT",1.0
+786,0.0,male,18.0,0.0,0.0,7.775,2,,,"Tofta, Sweden Joliet, IL",0.0
+787,0.0,male,16.0,0.0,0.0,7.775,2,,,"Karberg, Sweden Jerome Junction, AZ",0.0
+788,0.0,male,45.0,0.0,0.0,6.975,2,,,"Effington Rut, SD",0.0
+789,0.0,male,28.0,0.0,0.0,7.225,0,,,,0.0
+790,0.0,male,39.0,0.0,2.0,7.2292,0,,,"Syria Ottawa, ON",0.0
+791,0.0,male,17.0,1.0,1.0,7.2292,0,,,,0.0
+792,0.0,male,15.0,1.0,1.0,7.2292,0,,,Syria,0.0
+793,0.0,male,47.0,0.0,0.0,7.25,2,,,"Illinois, USA",0.0
+794,1.0,female,5.0,0.0,0.0,12.475,2,13,,"New York, NY",1.0
+795,0.0,male,28.0,0.0,0.0,7.225,0,,,,0.0
+796,0.0,male,40.5,0.0,0.0,15.1,2,,187.0,,0.0
+797,0.0,male,40.5,0.0,0.0,7.75,1,,68.0,"Aughnacliff, Co Longford, Ireland New York, NY",0.0
+798,1.0,male,28.0,0.0,0.0,7.05,2,15,,"Italy Philadelphia, PA",0.0
+799,0.0,male,18.0,0.0,0.0,7.7958,2,,,,0.0
+800,0.0,female,28.0,0.0,0.0,7.75,1,,,,1.0
+801,0.0,male,28.0,0.0,0.0,7.75,1,,,,0.0
+802,0.0,male,28.0,0.0,0.0,6.95,1,,,,0.0
+803,0.0,male,26.0,0.0,0.0,7.8792,1,,,"Ireland Chicago, IL",0.0
+804,0.0,male,28.0,0.0,0.0,7.75,1,,,Ireland,0.0
+805,1.0,male,28.0,0.0,0.0,56.4958,2,13,,"Hong Kong New York, NY",0.0
+806,0.0,female,21.0,2.0,2.0,34.375,2,,,"Rotherfield, Sussex, England Essex Co, MA",1.0
+807,0.0,female,9.0,2.0,2.0,34.375,2,,,"Rotherfield, Sussex, England Essex Co, MA",1.0
+808,0.0,male,28.0,0.0,0.0,8.05,2,,,"Bridgwater, Somerset, England",0.0
+809,0.0,male,18.0,2.0,2.0,34.375,2,,,"Rotherfield, Sussex, England Essex Co, MA",0.0
+810,0.0,male,16.0,1.0,3.0,34.375,2,,,"Rotherfield, Sussex, England Essex Co, MA",0.0
+811,0.0,female,48.0,1.0,3.0,34.375,2,,,"Rotherfield, Sussex, England Essex Co, MA",1.0
+812,0.0,male,28.0,0.0,0.0,7.75,1,,,"Ireland New York, NY",0.0
+813,0.0,male,28.0,0.0,0.0,7.25,2,,,,0.0
+814,0.0,male,25.0,0.0,0.0,7.7417,1,,,"New York, NY",0.0
+815,0.0,male,28.0,0.0,0.0,14.5,2,,,,0.0
+816,0.0,male,28.0,0.0,0.0,7.8958,0,,,,0.0
+817,0.0,male,22.0,0.0,0.0,8.05,2,,47.0,,0.0
+818,1.0,female,16.0,0.0,0.0,7.7333,1,16,,"Co Longford, Ireland New York, NY",1.0
+819,1.0,female,28.0,0.0,0.0,7.75,1,13,,"Co Clare, Ireland Washington, DC",1.0
+820,1.0,male,9.0,0.0,2.0,20.525,2,C D,,"Strood, Kent, England Detroit, MI",0.0
+821,0.0,male,33.0,1.0,1.0,20.525,2,,,"Strood, Kent, England Detroit, MI",0.0
+822,0.0,male,41.0,0.0,0.0,7.85,2,,,"Philadelphia, PA",0.0
+823,1.0,female,31.0,1.0,1.0,20.525,2,C D,,"Strood, Kent, England Detroit, MI",1.0
+824,0.0,male,38.0,0.0,0.0,7.05,2,,,Portugal,0.0
+825,0.0,male,9.0,5.0,2.0,46.9,2,,,"Wiltshire, England Niagara Falls, NY",0.0
+826,0.0,male,1.0,5.0,2.0,46.9,2,,,"Wiltshire, England Niagara Falls, NY",0.0
+827,0.0,male,11.0,5.0,2.0,46.9,2,,,"Wiltshire, England Niagara Falls, NY",0.0
+828,0.0,female,10.0,5.0,2.0,46.9,2,,,"Wiltshire, England Niagara Falls, NY",1.0
+829,0.0,female,16.0,5.0,2.0,46.9,2,,,"Wiltshire, England Niagara Falls, NY",1.0
+830,0.0,male,14.0,5.0,2.0,46.9,2,,,"Wiltshire, England Niagara Falls, NY",0.0
+831,0.0,male,40.0,1.0,6.0,46.9,2,,,"Wiltshire, England Niagara Falls, NY",0.0
+832,0.0,female,43.0,1.0,6.0,46.9,2,,,"Wiltshire, England Niagara Falls, NY",1.0
+833,0.0,male,51.0,0.0,0.0,8.05,2,,,"Dorking, Surrey, England",0.0
+834,0.0,male,32.0,0.0,0.0,8.3625,2,,,"Foresvik, Norway Portland, ND",0.0
+835,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+836,0.0,male,20.0,0.0,0.0,9.8458,2,,,"Waukegan, Chicago, IL",0.0
+837,0.0,male,37.0,2.0,0.0,7.925,2,,98.0,"Ruotsinphytaa, Finland New York, NY",0.0
+838,0.0,male,28.0,2.0,0.0,7.925,2,,,"Ruotsinphytaa, Finland New York, NY",0.0
+839,0.0,male,19.0,0.0,0.0,7.775,2,,,"Myren, Sweden New York, NY",0.0
+840,0.0,female,24.0,0.0,0.0,8.85,2,,,,1.0
+841,0.0,female,17.0,0.0,0.0,7.7333,1,,,,1.0
+842,0.0,male,28.0,1.0,0.0,19.9667,2,,,,0.0
+843,0.0,male,28.0,1.0,0.0,19.9667,2,,,,0.0
+844,0.0,male,28.0,1.0,0.0,15.85,2,,,,0.0
+845,1.0,female,24.0,1.0,0.0,15.85,2,15,,,1.0
+846,0.0,male,20.0,0.0,0.0,9.5,2,,,,0.0
+847,0.0,male,23.5,0.0,0.0,7.2292,0,,188.0,,0.0
+848,0.0,male,41.0,2.0,0.0,14.1083,2,,,,0.0
+849,0.0,male,26.0,1.0,0.0,7.8542,2,,,,0.0
+850,0.0,male,21.0,0.0,0.0,7.8542,2,,69.0,,0.0
+851,1.0,female,45.0,1.0,0.0,14.1083,2,11,,,1.0
+852,0.0,female,28.0,0.0,0.0,7.55,2,,,,1.0
+853,0.0,male,25.0,0.0,0.0,7.25,2,B,,,0.0
+854,0.0,male,28.0,0.0,0.0,6.8583,1,,,,0.0
+855,0.0,male,11.0,0.0,0.0,18.7875,0,,,,0.0
+856,1.0,female,28.0,0.0,0.0,7.75,1,16,,,1.0
+857,1.0,male,27.0,0.0,0.0,6.975,2,15,,,0.0
+858,1.0,male,28.0,0.0,0.0,56.4958,2,C,,,0.0
+859,0.0,female,18.0,0.0,0.0,6.75,1,,,,1.0
+860,1.0,female,26.0,0.0,0.0,7.925,2,,,,1.0
+861,0.0,female,23.0,0.0,0.0,7.925,2,,,,1.0
+862,1.0,female,22.0,0.0,0.0,8.9625,2,C,,,1.0
+863,0.0,male,28.0,0.0,0.0,7.8958,2,,306.0,,0.0
+864,0.0,female,28.0,0.0,0.0,7.775,2,,,,1.0
+865,0.0,female,28.0,0.0,0.0,7.75,1,,,,1.0
+866,1.0,female,2.0,0.0,1.0,12.2875,2,15,,,1.0
+867,1.0,female,22.0,1.0,1.0,12.2875,2,15,,,1.0
+868,0.0,male,43.0,0.0,0.0,6.45,2,,,,0.0
+869,0.0,male,28.0,0.0,0.0,22.525,2,,,,0.0
+870,1.0,female,27.0,0.0,0.0,7.925,2,,,,1.0
+871,0.0,male,28.0,0.0,0.0,7.75,1,,,,0.0
+872,1.0,female,28.0,0.0,0.0,8.05,2,C,,,1.0
+873,0.0,male,42.0,0.0,0.0,7.65,2,,120.0,,0.0
+874,1.0,male,28.0,0.0,0.0,7.8875,2,C,,,0.0
+875,0.0,male,30.0,0.0,0.0,7.2292,0,,,,0.0
+876,0.0,male,28.0,0.0,0.0,7.8958,2,,,,0.0
+877,0.0,female,27.0,1.0,0.0,7.925,2,,,,1.0
+878,0.0,female,25.0,1.0,0.0,7.925,2,,,,1.0
+879,0.0,male,28.0,0.0,0.0,7.8958,2,,,,0.0
+880,1.0,male,29.0,0.0,0.0,7.8958,0,15,,,0.0
+881,1.0,male,21.0,0.0,0.0,7.7958,2,A,,,0.0
+882,0.0,male,28.0,0.0,0.0,7.05,2,,,,0.0
+883,0.0,male,20.0,0.0,0.0,7.8542,2,,,,0.0
+884,0.0,male,48.0,0.0,0.0,7.8542,2,,,,0.0
+885,0.0,male,17.0,1.0,0.0,7.0542,2,,,,0.0
+886,1.0,female,28.0,0.0,0.0,7.75,1,D,,,1.0
+887,1.0,male,28.0,0.0,0.0,8.1125,2,13,,,0.0
+888,0.0,male,34.0,0.0,0.0,6.4958,2,,143.0,,0.0
+889,1.0,male,26.0,0.0,0.0,7.775,2,15,,,0.0
+890,0.0,male,22.0,0.0,0.0,7.7958,2,,156.0,,0.0
+891,0.0,male,33.0,0.0,0.0,8.6542,2,,285.0,,0.0
+892,0.0,male,31.0,0.0,0.0,7.775,2,,,,0.0
+893,0.0,male,29.0,0.0,0.0,7.8542,2,,,,0.0
+894,1.0,male,4.0,1.0,1.0,11.1333,2,15,,,0.0
+895,1.0,female,1.0,1.0,1.0,11.1333,2,15,,,1.0
+896,0.0,male,49.0,0.0,0.0,0.0,2,,,,0.0
+897,0.0,male,33.0,0.0,0.0,7.775,2,,37.0,,0.0
+898,0.0,male,19.0,0.0,0.0,0.0,2,,,,0.0
+899,1.0,female,27.0,0.0,2.0,11.1333,2,15,,,1.0
+900,0.0,male,28.0,1.0,2.0,23.45,2,,,,0.0
+901,0.0,female,28.0,1.0,2.0,23.45,2,,,,1.0
+902,0.0,male,28.0,1.0,2.0,23.45,2,,,,0.0
+903,0.0,female,28.0,1.0,2.0,23.45,2,,,,1.0
+904,0.0,male,23.0,0.0,0.0,7.8958,2,,,,0.0
+905,1.0,male,32.0,0.0,0.0,7.8542,2,15,,,0.0
+906,0.0,male,27.0,0.0,0.0,7.8542,2,,,,0.0
+907,0.0,female,20.0,1.0,0.0,9.825,2,,,,1.0
+908,0.0,female,21.0,1.0,0.0,9.825,2,,,,1.0
+909,1.0,male,32.0,0.0,0.0,7.925,2,15,,,0.0
+910,0.0,male,17.0,0.0,0.0,7.125,2,,,,0.0
+911,0.0,male,21.0,0.0,0.0,8.4333,2,,,,0.0
+912,0.0,male,30.0,0.0,0.0,7.8958,2,,,,0.0
+913,1.0,male,21.0,0.0,0.0,7.7958,2,13,,,0.0
+914,0.0,male,33.0,0.0,0.0,7.8542,2,,,,0.0
+915,0.0,male,22.0,0.0,0.0,7.5208,2,,,,0.0
+916,1.0,female,4.0,0.0,1.0,13.4167,0,15,,,1.0
+917,1.0,male,39.0,0.0,1.0,13.4167,0,15,,,0.0
+918,0.0,male,28.0,0.0,0.0,7.2292,0,,,,0.0
+919,0.0,male,18.5,0.0,0.0,7.2292,0,,58.0,,0.0
+920,0.0,male,28.0,0.0,0.0,7.75,1,,,,0.0
+921,0.0,male,28.0,0.0,0.0,7.25,2,A,,,0.0
+922,1.0,female,28.0,0.0,0.0,7.75,1,16,,,1.0
+923,1.0,female,28.0,0.0,0.0,7.75,1,D,,,1.0
+924,0.0,male,34.5,0.0,0.0,7.8292,1,,70.0,,0.0
+925,0.0,male,44.0,0.0,0.0,8.05,2,,,,0.0
+926,1.0,male,28.0,0.0,0.0,7.75,1,,,,0.0
+927,0.0,male,28.0,1.0,0.0,14.4542,0,,,,0.0
+928,0.0,female,28.0,1.0,0.0,14.4542,0,,,,1.0
+929,0.0,male,28.0,1.0,0.0,7.75,1,,,,0.0
+930,0.0,male,28.0,1.0,0.0,7.75,1,,,,0.0
+931,0.0,male,28.0,0.0,0.0,7.7375,1,,,,0.0
+932,0.0,female,22.0,2.0,0.0,8.6625,2,,,,1.0
+933,0.0,male,26.0,2.0,0.0,8.6625,2,,,,0.0
+934,1.0,female,4.0,0.0,2.0,22.025,2,2,,,1.0
+935,1.0,male,29.0,3.0,1.0,22.025,2,2,,,0.0
+936,1.0,female,26.0,1.0,1.0,22.025,2,2,,,1.0
+937,0.0,female,1.0,1.0,1.0,12.1833,2,,,,1.0
+938,0.0,male,18.0,1.0,1.0,7.8542,2,,,,0.0
+939,0.0,female,36.0,0.0,2.0,12.1833,2,,,,1.0
+940,0.0,male,28.0,0.0,0.0,7.8958,0,,,,0.0
+941,1.0,male,25.0,0.0,0.0,7.2292,0,10,,,0.0
+942,0.0,male,28.0,0.0,0.0,7.225,0,,,,0.0
+943,0.0,female,37.0,0.0,0.0,9.5875,2,,,,1.0
+944,0.0,male,28.0,0.0,0.0,7.8958,2,,,,0.0
+945,1.0,male,28.0,0.0,0.0,56.4958,2,C,,,0.0
+946,0.0,male,28.0,0.0,0.0,56.4958,2,,,,0.0
+947,1.0,female,22.0,0.0,0.0,7.25,2,13,,,1.0
+948,0.0,male,28.0,0.0,0.0,7.75,1,,,,0.0
+949,1.0,male,26.0,0.0,0.0,56.4958,2,14,,,0.0
+950,0.0,male,29.0,0.0,0.0,9.4833,2,,,,0.0
+951,0.0,male,29.0,0.0,0.0,7.775,2,,,,0.0
+952,0.0,male,22.0,0.0,0.0,7.775,2,,,,0.0
+953,1.0,male,22.0,0.0,0.0,7.225,0,6,,,0.0
+954,0.0,male,28.0,3.0,1.0,25.4667,2,,,,0.0
+955,0.0,female,28.0,3.0,1.0,25.4667,2,,,,1.0
+956,0.0,female,28.0,3.0,1.0,25.4667,2,,,,1.0
+957,0.0,female,28.0,3.0,1.0,25.4667,2,,,,1.0
+958,0.0,female,28.0,0.0,4.0,25.4667,2,,,,1.0
+959,0.0,male,32.0,0.0,0.0,7.925,2,,,,0.0
+960,0.0,male,34.5,0.0,0.0,6.4375,0,,196.0,,0.0
+961,0.0,female,28.0,1.0,0.0,15.5,1,,,,1.0
+962,0.0,male,28.0,1.0,0.0,15.5,1,,,,0.0
+963,0.0,male,36.0,0.0,0.0,0.0,2,,,,0.0
+964,0.0,male,39.0,0.0,0.0,24.15,2,,,,0.0
+965,0.0,male,24.0,0.0,0.0,9.5,2,,,,0.0
+966,0.0,female,25.0,0.0,0.0,7.775,2,,,,1.0
+967,0.0,female,45.0,0.0,0.0,7.75,2,,,,1.0
+968,0.0,male,36.0,1.0,0.0,15.55,2,A,,,0.0
+969,0.0,female,30.0,1.0,0.0,15.55,2,A,,,1.0
+970,1.0,male,20.0,1.0,0.0,7.925,2,15,,,0.0
+971,0.0,male,28.0,0.0,0.0,7.8792,1,,,,0.0
+972,0.0,male,28.0,0.0,0.0,56.4958,2,,,,0.0
+973,0.0,male,28.0,0.0,0.0,7.55,2,,,,0.0
+974,0.0,male,30.0,1.0,0.0,16.1,2,,,,0.0
+975,0.0,female,26.0,1.0,0.0,16.1,2,,,,1.0
+976,0.0,male,28.0,0.0,0.0,7.8792,2,,153.0,,0.0
+977,0.0,male,20.5,0.0,0.0,7.25,2,,,,0.0
+978,1.0,male,27.0,0.0,0.0,8.6625,2,15,,,0.0
+979,0.0,male,51.0,0.0,0.0,7.0542,2,,,,0.0
+980,1.0,female,23.0,0.0,0.0,7.8542,2,10,,,1.0
+981,1.0,male,32.0,0.0,0.0,7.5792,2,15,,,0.0
+982,0.0,male,28.0,0.0,0.0,7.8958,2,,,,0.0
+983,0.0,male,28.0,0.0,0.0,7.55,2,,,,0.0
+984,1.0,female,28.0,0.0,0.0,7.75,1,15,,,1.0
+985,1.0,male,24.0,0.0,0.0,7.1417,2,13,,,0.0
+986,0.0,male,22.0,0.0,0.0,7.125,2,,,,0.0
+987,0.0,female,28.0,0.0,0.0,7.8792,1,,,,1.0
+988,0.0,male,28.0,0.0,0.0,7.75,1,,,,0.0
+989,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+990,0.0,male,29.0,0.0,0.0,7.925,2,,,,0.0
+991,1.0,male,28.0,0.0,0.0,7.2292,0,15,,,0.0
+992,0.0,female,30.5,0.0,0.0,7.75,1,,61.0,,1.0
+993,1.0,female,28.0,0.0,0.0,7.7375,1,16,,,1.0
+994,0.0,male,28.0,0.0,0.0,7.2292,0,,,,0.0
+995,0.0,male,35.0,0.0,0.0,7.8958,0,,,,0.0
+996,0.0,male,33.0,0.0,0.0,7.8958,2,,,,0.0
+997,1.0,female,28.0,0.0,0.0,7.225,0,C,,,1.0
+998,0.0,male,28.0,0.0,0.0,7.8958,0,,,,0.0
+999,1.0,female,28.0,0.0,0.0,7.75,1,15 16,,,1.0
+1000,1.0,male,28.0,0.0,0.0,7.75,1,,,,0.0
+1001,1.0,female,28.0,2.0,0.0,23.25,1,16,,,1.0
+1002,1.0,female,28.0,2.0,0.0,23.25,1,16,,,1.0
+1003,1.0,male,28.0,2.0,0.0,23.25,1,16,,,0.0
+1004,1.0,female,28.0,0.0,0.0,7.7875,1,13,,,1.0
+1005,0.0,male,28.0,0.0,0.0,15.5,1,,,,0.0
+1006,1.0,female,28.0,0.0,0.0,7.8792,1,13,,,1.0
+1007,1.0,female,15.0,0.0,0.0,8.0292,1,,,,1.0
+1008,0.0,female,35.0,0.0,0.0,7.75,1,,,,1.0
+1009,0.0,male,28.0,0.0,0.0,7.75,1,,,,0.0
+1010,0.0,male,24.0,1.0,0.0,16.1,2,,,,0.0
+1011,0.0,female,19.0,1.0,0.0,16.1,2,,53.0,,1.0
+1012,0.0,female,28.0,0.0,0.0,7.75,1,,,,1.0
+1013,0.0,female,28.0,0.0,0.0,8.05,2,,,,1.0
+1014,0.0,female,28.0,0.0,0.0,8.05,2,,,,1.0
+1015,0.0,male,55.5,0.0,0.0,8.05,2,,201.0,,0.0
+1016,0.0,male,28.0,0.0,0.0,7.75,1,,,,0.0
+1017,1.0,male,21.0,0.0,0.0,7.775,2,15,,,0.0
+1018,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+1019,0.0,male,24.0,0.0,0.0,7.8958,2,,,,0.0
+1020,0.0,male,21.0,0.0,0.0,7.8958,2,,,,0.0
+1021,0.0,male,28.0,0.0,0.0,7.8958,2,,,,0.0
+1022,0.0,male,28.0,0.0,0.0,7.8958,2,,,,0.0
+1023,1.0,female,28.0,0.0,0.0,7.8792,1,16,,,1.0
+1024,0.0,male,25.0,0.0,0.0,7.65,2,,309.0,,0.0
+1025,1.0,male,6.0,0.0,1.0,12.475,2,14,,,0.0
+1026,1.0,female,27.0,0.0,1.0,12.475,2,14,,,1.0
+1027,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+1028,1.0,female,28.0,1.0,0.0,24.15,1,16,,,1.0
+1029,0.0,male,28.0,1.0,0.0,24.15,1,,,,0.0
+1030,0.0,male,28.0,0.0,0.0,8.4583,1,,,,0.0
+1031,0.0,male,34.0,0.0,0.0,8.05,2,,,,0.0
+1032,0.0,male,28.0,0.0,0.0,7.75,1,,,,0.0
+1033,1.0,male,28.0,0.0,0.0,7.775,2,B,,,0.0
+1034,1.0,male,28.0,1.0,1.0,15.2458,0,C,,,0.0
+1035,1.0,male,28.0,1.0,1.0,15.2458,0,C,,,0.0
+1036,1.0,female,28.0,0.0,2.0,15.2458,0,C,,,1.0
+1037,1.0,female,28.0,0.0,0.0,7.2292,0,,,,1.0
+1038,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+1039,1.0,female,28.0,0.0,0.0,7.7333,1,16,,,1.0
+1040,1.0,female,24.0,0.0,0.0,7.75,1,15,,,1.0
+1041,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+1042,1.0,female,28.0,1.0,0.0,15.5,1,16,,,1.0
+1043,1.0,female,28.0,1.0,0.0,15.5,1,16,,,1.0
+1044,1.0,female,28.0,0.0,0.0,15.5,1,16,,,1.0
+1045,0.0,male,18.0,0.0,0.0,7.75,2,,,,0.0
+1046,0.0,male,22.0,0.0,0.0,7.8958,2,,,,0.0
+1047,1.0,female,15.0,0.0,0.0,7.225,0,C,,,1.0
+1048,1.0,female,1.0,0.0,2.0,15.7417,0,C,,,1.0
+1049,1.0,male,20.0,1.0,1.0,15.7417,0,C,,,0.0
+1050,1.0,female,19.0,1.0,1.0,15.7417,0,C,,,1.0
+1051,0.0,male,33.0,0.0,0.0,8.05,2,,,,0.0
+1052,0.0,male,28.0,0.0,0.0,7.8958,2,,,,0.0
+1053,0.0,male,28.0,0.0,0.0,7.2292,0,,,,0.0
+1054,0.0,female,28.0,0.0,0.0,7.75,1,,,,1.0
+1055,0.0,male,28.0,0.0,0.0,7.8958,2,,,,0.0
+1056,1.0,male,12.0,1.0,0.0,11.2417,0,C,,,0.0
+1057,1.0,female,14.0,1.0,0.0,11.2417,0,C,,,1.0
+1058,0.0,female,29.0,0.0,0.0,7.925,2,,,,1.0
+1059,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+1060,1.0,female,18.0,0.0,0.0,7.775,2,D,,,1.0
+1061,1.0,female,26.0,0.0,0.0,7.8542,2,13,,,1.0
+1062,0.0,male,21.0,0.0,0.0,7.8542,2,,,,0.0
+1063,0.0,male,41.0,0.0,0.0,7.125,2,,,"Finland Sudbury, ON",0.0
+1064,1.0,male,39.0,0.0,0.0,7.925,2,9,,,0.0
+1065,0.0,male,21.0,0.0,0.0,7.8,2,,,,0.0
+1066,0.0,male,28.5,0.0,0.0,7.2292,0,,181.0,,0.0
+1067,1.0,female,22.0,0.0,0.0,7.75,2,13,,,1.0
+1068,0.0,male,61.0,0.0,0.0,6.2375,2,,,,0.0
+1069,0.0,male,28.0,1.0,0.0,15.5,1,,,,0.0
+1070,0.0,male,28.0,0.0,0.0,7.8292,1,,,,0.0
+1071,1.0,female,28.0,1.0,0.0,15.5,1,,,,1.0
+1072,0.0,male,28.0,0.0,0.0,7.7333,1,,,,0.0
+1073,0.0,male,28.0,0.0,0.0,7.75,1,,,,0.0
+1074,0.0,male,28.0,0.0,0.0,7.75,1,,,,0.0
+1075,0.0,male,23.0,0.0,0.0,9.225,2,,,,0.0
+1076,0.0,female,28.0,0.0,0.0,7.75,1,,,,1.0
+1077,1.0,female,28.0,0.0,0.0,7.75,1,D,,,1.0
+1078,1.0,female,28.0,0.0,0.0,7.8792,1,,,,1.0
+1079,1.0,female,22.0,0.0,0.0,7.775,2,C,,,1.0
+1080,1.0,male,28.0,0.0,0.0,7.75,1,B,,,0.0
+1081,1.0,female,28.0,0.0,0.0,7.8292,1,13,,,1.0
+1082,1.0,male,9.0,0.0,1.0,3.1708,2,13,,,0.0
+1083,0.0,male,28.0,0.0,0.0,22.525,2,,173.0,,0.0
+1084,0.0,male,42.0,0.0,1.0,8.4042,2,,,,0.0
+1085,0.0,male,28.0,0.0,0.0,7.3125,2,,,,0.0
+1086,0.0,female,31.0,0.0,0.0,7.8542,2,,,,1.0
+1087,0.0,male,28.0,0.0,0.0,7.8542,2,,,,0.0
+1088,1.0,male,32.0,0.0,0.0,7.775,2,A,,,0.0
+1089,0.0,male,20.0,0.0,0.0,9.225,2,,89.0,"Oslo, Norway Cameron, WI",0.0
+1090,0.0,female,23.0,0.0,0.0,8.6625,2,,,,1.0
+1091,0.0,female,20.0,0.0,0.0,8.6625,2,,,,1.0
+1092,0.0,male,20.0,0.0,0.0,8.6625,2,,,,0.0
+1093,0.0,male,16.0,0.0,0.0,9.2167,2,,,,0.0
+1094,1.0,female,31.0,0.0,0.0,8.6833,2,,,,1.0
+1095,0.0,female,28.0,0.0,0.0,7.6292,1,,,,1.0
+1096,0.0,male,2.0,3.0,1.0,21.075,2,,4.0,,0.0
+1097,0.0,male,6.0,3.0,1.0,21.075,2,,,,0.0
+1098,0.0,female,3.0,3.0,1.0,21.075,2,,,,1.0
+1099,0.0,female,8.0,3.0,1.0,21.075,2,,,,1.0
+1100,0.0,female,29.0,0.0,4.0,21.075,2,,206.0,,1.0
+1101,0.0,male,1.0,4.0,1.0,39.6875,2,,,,0.0
+1102,0.0,male,7.0,4.0,1.0,39.6875,2,,,,0.0
+1103,0.0,male,2.0,4.0,1.0,39.6875,2,,,,0.0
+1104,0.0,male,16.0,4.0,1.0,39.6875,2,,,,0.0
+1105,0.0,male,14.0,4.0,1.0,39.6875,2,,,,0.0
+1106,0.0,female,41.0,0.0,5.0,39.6875,2,,,,1.0
+1107,0.0,male,21.0,0.0,0.0,8.6625,2,,,,0.0
+1108,0.0,male,19.0,0.0,0.0,14.5,2,,,,0.0
+1109,0.0,male,28.0,0.0,0.0,8.7125,0,,,,0.0
+1110,0.0,male,32.0,0.0,0.0,7.8958,2,,,,0.0
+1111,0.0,male,0.75,1.0,1.0,13.775,2,,,,0.0
+1112,0.0,female,3.0,1.0,1.0,13.775,2,,,,1.0
+1113,0.0,female,26.0,0.0,2.0,13.775,2,,,,1.0
+1114,0.0,male,28.0,0.0,0.0,7.0,2,,,,0.0
+1115,0.0,male,28.0,0.0,0.0,7.775,2,,,,0.0
+1116,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+1117,0.0,male,21.0,0.0,0.0,7.925,2,,,,0.0
+1118,0.0,male,25.0,0.0,0.0,7.925,2,,,,0.0
+1119,0.0,male,22.0,0.0,0.0,7.25,2,,,,0.0
+1120,1.0,male,25.0,1.0,0.0,7.775,2,15,,,0.0
+1121,1.0,male,28.0,1.0,1.0,22.3583,0,C,,,0.0
+1122,1.0,female,28.0,1.0,1.0,22.3583,0,D,,,1.0
+1123,1.0,female,28.0,0.0,2.0,22.3583,0,D,,,1.0
+1124,0.0,female,28.0,0.0,0.0,8.1375,1,,,,1.0
+1125,0.0,male,24.0,0.0,0.0,8.05,2,,,,0.0
+1126,0.0,female,28.0,0.0,0.0,7.8958,2,,,,1.0
+1127,0.0,male,19.0,0.0,0.0,7.8958,2,,,,0.0
+1128,0.0,male,28.0,0.0,0.0,7.8958,2,,,,0.0
+1129,0.0,male,25.0,1.0,0.0,7.775,2,,,,0.0
+1130,0.0,female,18.0,0.0,0.0,7.775,2,,,,1.0
+1131,1.0,male,32.0,0.0,0.0,8.05,2,9,,,0.0
+1132,0.0,male,28.0,0.0,0.0,7.8958,2,,,,0.0
+1133,0.0,male,17.0,0.0,0.0,8.6625,2,,,,0.0
+1134,0.0,male,24.0,0.0,0.0,8.6625,2,,,,0.0
+1135,0.0,male,28.0,0.0,0.0,7.8958,2,,,,0.0
+1136,0.0,female,28.0,0.0,0.0,8.1125,2,,,,1.0
+1137,0.0,male,28.0,0.0,0.0,7.2292,0,,,,0.0
+1138,0.0,male,28.0,0.0,0.0,7.25,2,,,,0.0
+1139,0.0,male,38.0,0.0,0.0,7.8958,2,,,,0.0
+1140,0.0,male,21.0,0.0,0.0,8.05,2,,,,0.0
+1141,0.0,male,10.0,4.0,1.0,29.125,1,,,,0.0
+1142,0.0,male,4.0,4.0,1.0,29.125,1,,,,0.0
+1143,0.0,male,7.0,4.0,1.0,29.125,1,,,,0.0
+1144,0.0,male,2.0,4.0,1.0,29.125,1,,,,0.0
+1145,0.0,male,8.0,4.0,1.0,29.125,1,,,,0.0
+1146,0.0,female,39.0,0.0,5.0,29.125,1,,327.0,,1.0
+1147,0.0,female,22.0,0.0,0.0,39.6875,2,,,,1.0
+1148,0.0,male,35.0,0.0,0.0,7.125,2,,,,0.0
+1149,1.0,female,28.0,0.0,0.0,7.7208,1,13,,,1.0
+1150,0.0,male,28.0,0.0,0.0,14.5,2,,,,0.0
+1151,0.0,female,28.0,0.0,0.0,14.5,2,,,,1.0
+1152,0.0,male,50.0,1.0,0.0,14.5,2,,119.0,,0.0
+1153,0.0,female,47.0,1.0,0.0,14.5,2,,7.0,,1.0
+1154,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+1155,0.0,male,28.0,0.0,0.0,7.775,2,,,,0.0
+1156,0.0,female,2.0,1.0,1.0,20.2125,2,,,,1.0
+1157,0.0,male,18.0,1.0,1.0,20.2125,2,,,,0.0
+1158,0.0,female,41.0,0.0,2.0,20.2125,2,,,,1.0
+1159,1.0,female,28.0,0.0,0.0,8.05,2,C,,,1.0
+1160,0.0,male,50.0,0.0,0.0,8.05,2,,,,0.0
+1161,0.0,male,16.0,0.0,0.0,8.05,2,,,,0.0
+1162,1.0,male,28.0,0.0,0.0,7.75,1,14,,,0.0
+1163,0.0,male,28.0,0.0,0.0,24.15,1,,,,0.0
+1164,0.0,male,28.0,0.0,0.0,7.2292,0,,,,0.0
+1165,0.0,male,25.0,0.0,0.0,7.225,0,,,,0.0
+1166,0.0,male,28.0,0.0,0.0,7.225,0,,,,0.0
+1167,0.0,male,28.0,0.0,0.0,7.7292,1,,,,0.0
+1168,0.0,male,28.0,0.0,0.0,7.575,2,,,,0.0
+1169,0.0,male,38.5,0.0,0.0,7.25,2,,32.0,,0.0
+1170,0.0,male,28.0,8.0,2.0,69.55,2,,,,0.0
+1171,0.0,male,14.5,8.0,2.0,69.55,2,,67.0,,0.0
+1172,0.0,female,28.0,8.0,2.0,69.55,2,,,,1.0
+1173,0.0,female,28.0,8.0,2.0,69.55,2,,,,1.0
+1174,0.0,female,28.0,8.0,2.0,69.55,2,,,,1.0
+1175,0.0,female,28.0,8.0,2.0,69.55,2,,,,1.0
+1176,0.0,male,28.0,8.0,2.0,69.55,2,,,,0.0
+1177,0.0,male,28.0,8.0,2.0,69.55,2,,,,0.0
+1178,0.0,male,28.0,8.0,2.0,69.55,2,,,,0.0
+1179,0.0,male,28.0,1.0,9.0,69.55,2,,,,0.0
+1180,0.0,female,28.0,1.0,9.0,69.55,2,,,,1.0
+1181,0.0,male,24.0,0.0,0.0,9.325,2,,,,0.0
+1182,1.0,female,21.0,0.0,0.0,7.65,2,C,,,1.0
+1183,0.0,male,39.0,0.0,0.0,7.925,2,,,,0.0
+1184,0.0,male,28.0,2.0,0.0,21.6792,0,,,,0.0
+1185,0.0,male,28.0,2.0,0.0,21.6792,0,,,,0.0
+1186,0.0,male,28.0,2.0,0.0,21.6792,0,,,,0.0
+1187,1.0,female,1.0,1.0,1.0,16.7,2,13,,,1.0
+1188,1.0,female,24.0,0.0,2.0,16.7,2,13,,,1.0
+1189,1.0,female,4.0,1.0,1.0,16.7,2,13,,,1.0
+1190,1.0,male,25.0,0.0,0.0,9.5,2,11,,,0.0
+1191,0.0,male,20.0,0.0,0.0,8.05,2,,,,0.0
+1192,0.0,male,24.5,0.0,0.0,8.05,2,,284.0,,0.0
+1193,0.0,male,28.0,0.0,0.0,7.725,1,,,,0.0
+1194,0.0,male,28.0,0.0,0.0,7.8958,2,,,,0.0
+1195,0.0,male,28.0,0.0,0.0,7.75,1,,,,0.0
+1196,1.0,male,29.0,0.0,0.0,9.5,2,11,,,0.0
+1197,0.0,male,28.0,0.0,0.0,15.1,2,,,,0.0
+1198,1.0,female,28.0,0.0,0.0,7.7792,1,,,,1.0
+1199,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+1200,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+1201,0.0,male,22.0,0.0,0.0,7.2292,0,,,,0.0
+1202,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+1203,0.0,male,40.0,0.0,0.0,7.8958,2,,,,0.0
+1204,0.0,male,21.0,0.0,0.0,7.925,2,,,,0.0
+1205,1.0,female,18.0,0.0,0.0,7.4958,2,16,,,1.0
+1206,0.0,male,4.0,3.0,2.0,27.9,2,,,,0.0
+1207,0.0,male,10.0,3.0,2.0,27.9,2,,,,0.0
+1208,0.0,female,9.0,3.0,2.0,27.9,2,,,,1.0
+1209,0.0,female,2.0,3.0,2.0,27.9,2,,,,1.0
+1210,0.0,male,40.0,1.0,4.0,27.9,2,,,,0.0
+1211,0.0,female,45.0,1.0,4.0,27.9,2,,,,1.0
+1212,0.0,male,28.0,0.0,0.0,7.8958,2,,,,0.0
+1213,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+1214,0.0,male,28.0,0.0,0.0,8.6625,2,,,,0.0
+1215,0.0,male,28.0,0.0,0.0,7.75,1,,,,0.0
+1216,1.0,female,28.0,0.0,0.0,7.7333,1,13,,,1.0
+1217,0.0,male,19.0,0.0,0.0,7.65,2,,,,0.0
+1218,0.0,male,30.0,0.0,0.0,8.05,2,,,,0.0
+1219,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+1220,0.0,male,32.0,0.0,0.0,8.05,2,,,,0.0
+1221,0.0,male,28.0,0.0,0.0,7.8958,2,,,,0.0
+1222,0.0,male,33.0,0.0,0.0,8.6625,0,,,,0.0
+1223,1.0,female,23.0,0.0,0.0,7.55,2,C,,,1.0
+1224,0.0,male,21.0,0.0,0.0,8.05,2,,,,0.0
+1225,0.0,male,60.5,0.0,0.0,,2,,261.0,,0.0
+1226,0.0,male,19.0,0.0,0.0,7.8958,2,,,,0.0
+1227,0.0,female,22.0,0.0,0.0,9.8375,2,,,,1.0
+1228,1.0,male,31.0,0.0,0.0,7.925,2,9,,,0.0
+1229,0.0,male,27.0,0.0,0.0,8.6625,2,,,,0.0
+1230,0.0,female,2.0,0.0,1.0,10.4625,2,,,,1.0
+1231,0.0,female,29.0,1.0,1.0,10.4625,2,,,,1.0
+1232,1.0,male,16.0,0.0,0.0,8.05,2,B,,,0.0
+1233,1.0,male,44.0,0.0,0.0,7.925,2,15,,,0.0
+1234,0.0,male,25.0,0.0,0.0,7.05,2,,,,0.0
+1235,0.0,male,74.0,0.0,0.0,7.775,2,,,,0.0
+1236,1.0,male,14.0,0.0,0.0,9.225,2,13,,,0.0
+1237,0.0,male,24.0,0.0,0.0,7.7958,2,,,,0.0
+1238,1.0,male,25.0,0.0,0.0,7.7958,2,13 15,,,0.0
+1239,0.0,male,34.0,0.0,0.0,8.05,2,,176.0,,0.0
+1240,1.0,male,0.4167,0.0,1.0,8.5167,0,16,,,0.0
+1241,0.0,male,28.0,1.0,0.0,6.4375,0,,,,0.0
+1242,0.0,male,28.0,0.0,0.0,6.4375,0,,,,0.0
+1243,0.0,male,28.0,0.0,0.0,7.225,0,,,,0.0
+1244,1.0,female,16.0,1.0,1.0,8.5167,0,14,,,1.0
+1245,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+1246,0.0,male,28.0,1.0,0.0,16.1,2,,,,0.0
+1247,1.0,female,28.0,1.0,0.0,16.1,2,10,,,1.0
+1248,0.0,male,32.0,0.0,0.0,7.925,2,,,,0.0
+1249,0.0,male,28.0,0.0,0.0,7.75,1,,,,0.0
+1250,0.0,male,28.0,0.0,0.0,7.8958,2,,,,0.0
+1251,0.0,male,30.5,0.0,0.0,8.05,2,,50.0,,0.0
+1252,0.0,male,44.0,0.0,0.0,8.05,2,,,,0.0
+1253,0.0,male,28.0,0.0,0.0,7.2292,0,,,,0.0
+1254,1.0,male,25.0,0.0,0.0,0.0,2,15,,,0.0
+1255,0.0,male,28.0,0.0,0.0,7.2292,0,,,,0.0
+1256,1.0,male,7.0,1.0,1.0,15.2458,0,C,,,0.0
+1257,1.0,female,9.0,1.0,1.0,15.2458,0,C,,,1.0
+1258,1.0,female,29.0,0.0,2.0,15.2458,0,C,,,1.0
+1259,0.0,male,36.0,0.0,0.0,7.8958,2,,,,0.0
+1260,1.0,female,18.0,0.0,0.0,9.8417,2,15,,,1.0
+1261,1.0,female,63.0,0.0,0.0,9.5875,2,15,,,1.0
+1262,0.0,male,28.0,1.0,1.0,14.5,2,,,,0.0
+1263,0.0,male,11.5,1.0,1.0,14.5,2,,1.0,,0.0
+1264,0.0,male,40.5,0.0,2.0,14.5,2,,255.0,,0.0
+1265,0.0,female,10.0,0.0,2.0,24.15,2,,,,1.0
+1266,0.0,male,36.0,1.0,1.0,24.15,2,,,,0.0
+1267,0.0,female,30.0,1.0,1.0,24.15,2,,,,1.0
+1268,0.0,male,28.0,0.0,0.0,9.5,2,,,,0.0
+1269,0.0,male,33.0,0.0,0.0,9.5,2,,,,0.0
+1270,0.0,male,28.0,0.0,0.0,9.5,2,,,,0.0
+1271,0.0,male,28.0,0.0,0.0,9.5,2,,,,0.0
+1272,0.0,male,47.0,0.0,0.0,9.0,2,,,,0.0
+1273,0.0,female,18.0,2.0,0.0,18.0,2,,,,1.0
+1274,0.0,male,31.0,3.0,0.0,18.0,2,,,,0.0
+1275,0.0,male,16.0,2.0,0.0,18.0,2,,,,0.0
+1276,0.0,female,31.0,1.0,0.0,18.0,2,,,,1.0
+1277,1.0,male,22.0,0.0,0.0,7.225,0,13 15,,,0.0
+1278,0.0,male,20.0,0.0,0.0,7.8542,2,,,,0.0
+1279,0.0,female,14.0,0.0,0.0,7.8542,2,,,,1.0
+1280,0.0,male,22.0,0.0,0.0,7.8958,2,,,,0.0
+1281,0.0,male,22.0,0.0,0.0,9.0,2,,,"Antwerp, Belgium / Stanton, OH",0.0
+1282,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+1283,0.0,male,28.0,0.0,0.0,7.55,2,,,,0.0
+1284,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+1285,0.0,male,32.5,0.0,0.0,9.5,2,,298.0,,0.0
+1286,1.0,female,38.0,0.0,0.0,7.2292,0,C,,,1.0
+1287,0.0,male,51.0,0.0,0.0,7.75,2,,,,0.0
+1288,0.0,male,18.0,1.0,0.0,6.4958,2,,314.0,,0.0
+1289,0.0,male,21.0,1.0,0.0,6.4958,2,,,,0.0
+1290,1.0,female,47.0,1.0,0.0,7.0,2,,,,1.0
+1291,0.0,male,28.0,0.0,0.0,8.7125,2,,,,0.0
+1292,0.0,male,28.0,0.0,0.0,7.55,2,,,,0.0
+1293,0.0,male,28.0,0.0,0.0,8.05,2,,,,0.0
+1294,0.0,male,28.5,0.0,0.0,16.1,2,,14.0,,0.0
+1295,0.0,male,21.0,0.0,0.0,7.25,2,,,,0.0
+1296,0.0,male,27.0,0.0,0.0,8.6625,2,,131.0,,0.0
+1297,0.0,male,28.0,0.0,0.0,7.25,2,,,,0.0
+1298,0.0,male,36.0,0.0,0.0,9.5,2,,,,0.0
+1299,0.0,male,27.0,1.0,0.0,14.4542,0,C,,,0.0
+1300,1.0,female,15.0,1.0,0.0,14.4542,0,,,,1.0
+1301,0.0,male,45.5,0.0,0.0,7.225,0,,312.0,,0.0
+1302,0.0,male,28.0,0.0,0.0,7.225,0,,,,0.0
+1303,0.0,male,28.0,0.0,0.0,14.4583,0,,,,0.0
+1304,0.0,female,14.5,1.0,0.0,14.4542,0,,328.0,,1.0
+1305,0.0,female,28.0,1.0,0.0,14.4542,0,,,,1.0
+1306,0.0,male,26.5,0.0,0.0,7.225,0,,304.0,,0.0
+1307,0.0,male,27.0,0.0,0.0,7.225,0,,,,0.0
+1308,0.0,male,29.0,0.0,0.0,7.875,2,,,,0.0
+1309,,,28.0,,,,2,,,,

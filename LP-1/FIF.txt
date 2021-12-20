@@ -1,0 +1,22 @@
+Process Name: 7 -> Page fault: 7 -1 -1 
+Process Name: 0 -> Page fault: 7 0 -1 
+Process Name: 1 -> Page fault: 7 0 1 
+Process Name: 2 -> Page fault: 2 0 1 
+Process Name: 0 -> Page hit: 2 0 1 
+Process Name: 3 -> Page fault: 3 0 1 
+Process Name: 0 -> Page hit: 3 0 1 
+Process Name: 4 -> Page fault: 4 0 1 
+Process Name: 2 -> Page fault: 2 0 1 
+Process Name: 3 -> Page fault: 3 0 1 
+Process Name: 0 -> Page hit: 3 0 1 
+Process Name: 3 -> Page hit: 3 0 1 
+Process Name: 2 -> Page fault: 2 0 1 
+Process Name: 1 -> Page hit: 2 0 1 
+Process Name: 2 -> Page hit: 2 0 1 
+Process Name: 0 -> Page hit: 2 0 1 
+Process Name: 1 -> Page hit: 2 0 1 
+Process Name: 7 -> Page fault: 7 0 1 
+Process Name: 0 -> Page hit: 7 0 1 
+Process Name: 1 -> Page hit: 7 0 1 
+Hits: 10
+Miss: 10

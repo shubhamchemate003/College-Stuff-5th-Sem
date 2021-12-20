@@ -1,0 +1,45 @@
+create table login (
+	username varchar(30),
+	password varchar(30)
+);
+
+insert into login values("admin", "123");
+
+create table employee (
+	name varchar(30),
+	age varchar(10),
+	gender varchar(15),
+	job varchar(30),
+	salary varchar(20),
+	phone varchar(15),
+	aadhar varchar(15),
+	email varchar(50)
+);
+
+create table room (
+	room_number varchar(10),
+	availability varchar(20),
+	status varchar(20),
+	price varchar(20),
+	bed_type varchar(20)
+);
+
+create table drivers (
+	name varchar(100),
+	age varchar(10),
+	gender varchar(20),
+	company varchar(20),
+	brand varchar(20),
+	location varchar(40)
+);
+
+create table customer(
+	id varchar(100),
+	number varchar(20),
+	name varchar(100),
+	gender varchar(50),
+	country varchar(50),
+	room varchar(10),
+	status varchar(30),
+	deposite varchar(20)
+);

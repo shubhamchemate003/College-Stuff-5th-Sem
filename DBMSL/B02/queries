@@ -1,0 +1,77 @@
+db.students.aggregate([
+    {$group : {_id : "$marks", total_students: {$sum : 1}}}
+])
+
+db.students.aggregate([
+    {
+        $group: {
+            _id:'$name',
+            total:{$sum:1}
+        }
+    }
+]).pretty()
+
+db.students.aggregate([
+    {
+        $group: {
+            _id:'$subject',
+            total:{$sum:1}
+        }
+    }
+]).pretty()
+
+db.students.aggregate([
+    {
+        $group: {
+            _id:'$name',
+            total:{$sum:1}
+        }
+    },
+    {
+        $out: 'number_of_subs'
+    }
+]).pretty()
+
+db.number_of_subs.find({}).pretty()
+
+db.students.aggregate([
+    {
+        $match:{name:'Tony'}
+    },
+    {
+        $project:{_id:0, name:1, subject:1, marks:1}
+    },
+    {
+        $sort: {marks:-1}
+    }
+])
+
+db.students.aggregate([
+    {
+        $group: {
+            _id:'$name',
+            avg_marks: {
+                $avg : '$marks'
+            }
+        }
+    }
+]).pretty()
+
+db.students.aggregate([
+    {
+        $group: {
+            _id:'$subject',
+            avg_marks: {
+                $avg : '$marks'
+            }
+        }
+    }
+]).pretty()
+
+db.students.createIndex(
+    {name:1, subject:1}
+);
+
+db.students.getIndexes();
+
+db.students.find({}, {_id:0})
